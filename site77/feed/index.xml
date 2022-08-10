@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Avada Takeout</title>
+	<atom:link href="/site77/feed/" rel="self" type="application/rss+xml" />
+	<link>/site77</link>
+	<description>Just another MySite_aku9 Sites site</description>
+	<lastBuildDate>Thu, 30 Jun 2022 02:13:24 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0.1</generator>
+	<item>
+		<title>Hello world!</title>
+		<link>/site77/2022/06/30/hello-world/</link>
+					<comments>/site77/2022/06/30/hello-world/#comments</comments>
+		
+		<dc:creator><![CDATA[wpuser]]></dc:creator>
+		<pubDate>Thu, 30 Jun 2022 02:13:24 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">/site77/?p=1</guid>
+
+					<description><![CDATA[Welcome to MySite_aku9 Sites. This is your first post. Edit or delete it, then start writing!]]></description>
+										<content:encoded><![CDATA[<p>Welcome to <a href="https://web-aku9.run-us-west2.goorm.io/">MySite_aku9 Sites</a>. This is your first post. Edit or delete it, then start writing!</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/site77/2022/06/30/hello-world/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>NEW: The Pancake Burger</title>
+		<link>/site77/2020/04/08/new-the-pancake-burger/</link>
+					<comments>/site77/2020/04/08/new-the-pancake-burger/#respond</comments>
+		
+		<dc:creator><![CDATA[wpuser]]></dc:creator>
+		<pubDate>Wed, 08 Apr 2020 09:00:58 +0000</pubDate>
+				<category><![CDATA[Announcements]]></category>
+		<category><![CDATA[Menu]]></category>
+		<guid isPermaLink="false">/site77/?p=396</guid>
+
+					<description><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi sodales ipsum vel elementum vehicula. Suspendisse sit amet aliquet ex. Pellentesque commodo tortor vel mi volutpat vestibulum. Quisque vel fermentum neque. Maecenas ac velit quam. Sed nec diam et arcu ullamcorper auctor. Aenean cursus nisl lorem, vel facilisis magna blandit ut. Integer egestas mi eros,]]></description>
+										<content:encoded><![CDATA[<div class="fusion-fullwidth fullwidth-box fusion-builder-row-1 fusion-flex-container nonhundred-percent-fullwidth non-hundred-percent-height-scrolling" style="background-color: rgba(255,255,255,0);background-position: center center;background-repeat: no-repeat;border-width: 0px 0px 0px 0px;border-color:var(--awb-color2);border-style:solid;" ><div class="fusion-builder-row fusion-row fusion-flex-align-items-flex-start" style="max-width:calc( 1200px + 0px );margin-left: calc(-0px / 2 );margin-right: calc(-0px / 2 );"><div class="fusion-layout-column fusion_builder_column fusion-builder-column-0 fusion_builder_column_1_1 1_1 fusion-flex-column"><div class="fusion-column-wrapper fusion-flex-justify-content-flex-start fusion-content-layout-column" style="background-position:left top;background-repeat:no-repeat;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;padding: 0px 0px 0px 0px;"><div class="fusion-text fusion-text-1"><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi sodales ipsum vel elementum vehicula. Suspendisse sit amet aliquet ex. Pellentesque commodo tortor vel mi volutpat vestibulum. Quisque vel fermentum neque. Maecenas ac velit quam. Sed nec diam et arcu ullamcorper auctor. Aenean cursus nisl lorem, vel facilisis magna blandit ut.</p>
+<p>Integer egestas mi eros, nec suscipit elit sodales sed. Aliquam a mattis neque. Morbi sed dapibus nunc. Ut vitae diam elit. Sed at nibh orci. Nam sit amet augue eget eros tempor fringilla tincidunt non enim. Vivamus velit mi, egestas finibus elementum quis, pharetra a felis. Curabitur et ex augue. Curabitur et elementum ante. Vestibulum sit amet nunc enim. Sed turpis mi, malesuada in auctor ut, dictum at purus. Integer lectus dolor, pharetra auctor lobortis at, dapibus sed est.</p>
+</div></div><style type="text/css">.fusion-body .fusion-builder-column-0{width:100% !important;margin-top : 0px;margin-bottom : 20px;}.fusion-builder-column-0 > .fusion-column-wrapper {padding-top : 0px !important;padding-right : 0px !important;margin-right : 0px;padding-bottom : 0px !important;padding-left : 0px !important;margin-left : 0px;}@media only screen and (max-width:1024px) {.fusion-body .fusion-builder-column-0{width:100% !important;}.fusion-builder-column-0 > .fusion-column-wrapper {margin-right : 0px;margin-left : 0px;}}@media only screen and (max-width:640px) {.fusion-body .fusion-builder-column-0{width:100% !important;}.fusion-builder-column-0 > .fusion-column-wrapper {margin-right : 0px;margin-left : 0px;}}</style></div></div><style type="text/css">.fusion-body .fusion-flex-container.fusion-builder-row-1{ padding-top : 0px;margin-top : 0px;padding-right : 0px;padding-bottom : 0px;margin-bottom : 0px;padding-left : 0px;}</style></div>
+]]></content:encoded>
+					
+					<wfw:commentRss>/site77/2020/04/08/new-the-pancake-burger/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>New Milkshake Menu</title>
+		<link>/site77/2020/04/08/new-milkshake-menu/</link>
+					<comments>/site77/2020/04/08/new-milkshake-menu/#respond</comments>
+		
+		<dc:creator><![CDATA[wpuser]]></dc:creator>
+		<pubDate>Wed, 08 Apr 2020 08:47:24 +0000</pubDate>
+				<category><![CDATA[Announcements]]></category>
+		<category><![CDATA[Menu]]></category>
+		<guid isPermaLink="false">/site77/?p=392</guid>
+
+					<description><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi sodales ipsum vel elementum vehicula. Suspendisse sit amet aliquet ex. Pellentesque commodo tortor vel mi volutpat vestibulum. Quisque vel fermentum neque. Maecenas ac velit quam. Sed nec diam et arcu ullamcorper auctor. Aenean cursus nisl lorem, vel facilisis magna blandit ut. Integer egestas mi eros,]]></description>
+										<content:encoded><![CDATA[<div class="fusion-fullwidth fullwidth-box fusion-builder-row-2 fusion-flex-container nonhundred-percent-fullwidth non-hundred-percent-height-scrolling" style="background-color: rgba(255,255,255,0);background-position: center center;background-repeat: no-repeat;border-width: 0px 0px 0px 0px;border-color:var(--awb-color2);border-style:solid;" ><div class="fusion-builder-row fusion-row fusion-flex-align-items-flex-start" style="max-width:calc( 1200px + 0px );margin-left: calc(-0px / 2 );margin-right: calc(-0px / 2 );"><div class="fusion-layout-column fusion_builder_column fusion-builder-column-1 fusion_builder_column_1_1 1_1 fusion-flex-column"><div class="fusion-column-wrapper fusion-flex-justify-content-flex-start fusion-content-layout-column" style="background-position:left top;background-repeat:no-repeat;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;padding: 0px 0px 0px 0px;"><div class="fusion-text fusion-text-2"><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi sodales ipsum vel elementum vehicula. Suspendisse sit amet aliquet ex. Pellentesque commodo tortor vel mi volutpat vestibulum. Quisque vel fermentum neque. Maecenas ac velit quam. Sed nec diam et arcu ullamcorper auctor. Aenean cursus nisl lorem, vel facilisis magna blandit ut.</p>
+<p>Integer egestas mi eros, nec suscipit elit sodales sed. Aliquam a mattis neque. Morbi sed dapibus nunc. Ut vitae diam elit. Sed at nibh orci. Nam sit amet augue eget eros tempor fringilla tincidunt non enim. Vivamus velit mi, egestas finibus elementum quis, pharetra a felis. Curabitur et ex augue. Curabitur et elementum ante. Vestibulum sit amet nunc enim. Sed turpis mi, malesuada in auctor ut, dictum at purus. Integer lectus dolor, pharetra auctor lobortis at, dapibus sed est.</p>
+</div></div><style type="text/css">.fusion-body .fusion-builder-column-1{width:100% !important;margin-top : 0px;margin-bottom : 20px;}.fusion-builder-column-1 > .fusion-column-wrapper {padding-top : 0px !important;padding-right : 0px !important;margin-right : 0px;padding-bottom : 0px !important;padding-left : 0px !important;margin-left : 0px;}@media only screen and (max-width:1024px) {.fusion-body .fusion-builder-column-1{width:100% !important;}.fusion-builder-column-1 > .fusion-column-wrapper {margin-right : 0px;margin-left : 0px;}}@media only screen and (max-width:640px) {.fusion-body .fusion-builder-column-1{width:100% !important;}.fusion-builder-column-1 > .fusion-column-wrapper {margin-right : 0px;margin-left : 0px;}}</style></div></div><style type="text/css">.fusion-body .fusion-flex-container.fusion-builder-row-2{ padding-top : 0px;margin-top : 0px;padding-right : 0px;padding-bottom : 0px;margin-bottom : 0px;padding-left : 0px;}</style></div>
+]]></content:encoded>
+					
+					<wfw:commentRss>/site77/2020/04/08/new-milkshake-menu/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Your Favourite Sides</title>
+		<link>/site77/2020/04/08/your-favourite-sides/</link>
+					<comments>/site77/2020/04/08/your-favourite-sides/#respond</comments>
+		
+		<dc:creator><![CDATA[wpuser]]></dc:creator>
+		<pubDate>Wed, 08 Apr 2020 08:30:44 +0000</pubDate>
+				<category><![CDATA[Menu]]></category>
+		<guid isPermaLink="false">/site77/?p=387</guid>
+
+					<description><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi sodales ipsum vel elementum vehicula. Suspendisse sit amet aliquet ex. Pellentesque commodo tortor vel mi volutpat vestibulum. Quisque vel fermentum neque. Maecenas ac velit quam. Sed nec diam et arcu ullamcorper auctor. Aenean cursus nisl lorem, vel facilisis magna blandit ut. Integer egestas mi eros,]]></description>
+										<content:encoded><![CDATA[<div class="fusion-fullwidth fullwidth-box fusion-builder-row-3 fusion-flex-container nonhundred-percent-fullwidth non-hundred-percent-height-scrolling" style="background-color: rgba(255,255,255,0);background-position: center center;background-repeat: no-repeat;border-width: 0px 0px 0px 0px;border-color:var(--awb-color2);border-style:solid;" ><div class="fusion-builder-row fusion-row fusion-flex-align-items-flex-start" style="max-width:calc( 1200px + 0px );margin-left: calc(-0px / 2 );margin-right: calc(-0px / 2 );"><div class="fusion-layout-column fusion_builder_column fusion-builder-column-2 fusion_builder_column_1_1 1_1 fusion-flex-column"><div class="fusion-column-wrapper fusion-flex-justify-content-flex-start fusion-content-layout-column" style="background-position:left top;background-repeat:no-repeat;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;padding: 0px 0px 0px 0px;"><div class="fusion-text fusion-text-3"><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi sodales ipsum vel elementum vehicula. Suspendisse sit amet aliquet ex. Pellentesque commodo tortor vel mi volutpat vestibulum. Quisque vel fermentum neque. Maecenas ac velit quam. Sed nec diam et arcu ullamcorper auctor. Aenean cursus nisl lorem, vel facilisis magna blandit ut.</p>
+<p>Integer egestas mi eros, nec suscipit elit sodales sed. Aliquam a mattis neque. Morbi sed dapibus nunc. Ut vitae diam elit. Sed at nibh orci. Nam sit amet augue eget eros tempor fringilla tincidunt non enim. Vivamus velit mi, egestas finibus elementum quis, pharetra a felis. Curabitur et ex augue. Curabitur et elementum ante. Vestibulum sit amet nunc enim. Sed turpis mi, malesuada in auctor ut, dictum at purus. Integer lectus dolor, pharetra auctor lobortis at, dapibus sed est.</p>
+</div></div><style type="text/css">.fusion-body .fusion-builder-column-2{width:100% !important;margin-top : 0px;margin-bottom : 20px;}.fusion-builder-column-2 > .fusion-column-wrapper {padding-top : 0px !important;padding-right : 0px !important;margin-right : 0px;padding-bottom : 0px !important;padding-left : 0px !important;margin-left : 0px;}@media only screen and (max-width:1024px) {.fusion-body .fusion-builder-column-2{width:100% !important;}.fusion-builder-column-2 > .fusion-column-wrapper {margin-right : 0px;margin-left : 0px;}}@media only screen and (max-width:640px) {.fusion-body .fusion-builder-column-2{width:100% !important;}.fusion-builder-column-2 > .fusion-column-wrapper {margin-right : 0px;margin-left : 0px;}}</style></div></div><style type="text/css">.fusion-body .fusion-flex-container.fusion-builder-row-3{ padding-top : 0px;margin-top : 0px;padding-right : 0px;padding-bottom : 0px;margin-bottom : 0px;padding-left : 0px;}</style></div>
+]]></content:encoded>
+					
+					<wfw:commentRss>/site77/2020/04/08/your-favourite-sides/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>The Pepperoni Classic</title>
+		<link>/site77/2020/04/06/the-pepperoni-classic/</link>
+					<comments>/site77/2020/04/06/the-pepperoni-classic/#respond</comments>
+		
+		<dc:creator><![CDATA[wpuser]]></dc:creator>
+		<pubDate>Mon, 06 Apr 2020 14:20:13 +0000</pubDate>
+				<category><![CDATA[Menu]]></category>
+		<guid isPermaLink="false">/site77/?p=160</guid>
+
+					<description><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam aliquam eget est sed vulputate. Morbi commodo turpis vel condimentum semper. Integer ut commodo eros. Vestibulum non scelerisque tortor, nec porta nulla. Duis massa justo, facilisis a diam tristique, fermentum venenatis purus. Etiam vitae imperdiet mauris, vel fringilla ipsum. Etiam finibus consectetur leo, vel tincidunt]]></description>
+										<content:encoded><![CDATA[<div class="fusion-fullwidth fullwidth-box fusion-builder-row-4 fusion-flex-container nonhundred-percent-fullwidth non-hundred-percent-height-scrolling" style="background-color: rgba(255,255,255,0);background-position: center center;background-repeat: no-repeat;border-width: 0px 0px 0px 0px;border-color:var(--awb-color2);border-style:solid;" ><div class="fusion-builder-row fusion-row fusion-flex-align-items-flex-start" style="max-width:calc( 1200px + 0px );margin-left: calc(-0px / 2 );margin-right: calc(-0px / 2 );"><div class="fusion-layout-column fusion_builder_column fusion-builder-column-3 fusion_builder_column_1_1 1_1 fusion-flex-column"><div class="fusion-column-wrapper fusion-flex-justify-content-flex-start fusion-content-layout-column" style="background-position:left top;background-repeat:no-repeat;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;padding: 0px 0px 0px 0px;"><div class="fusion-text fusion-text-4"><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam aliquam eget est sed vulputate. Morbi commodo turpis vel condimentum semper. Integer ut commodo eros. Vestibulum non scelerisque tortor, nec porta nulla. Duis massa justo, facilisis a diam tristique, fermentum venenatis purus. Etiam vitae imperdiet mauris, vel fringilla ipsum. Etiam finibus consectetur leo, vel tincidunt dolor volutpat nec.</p>
+<p>Fusce condimentum, dolor id tincidunt efficitur, lorem neque malesuada eros, in vulputate eros sapien eu nulla. Duis feugiat sed nunc finibus lobortis. Sed vel vulputate sem. Suspendisse magna ex, lacinia vitae sagittis quis, fringilla sit amet libero. Ut velit nisi, ultrices sed massa in, finibus dictum risus. Vivamus auctor lacus magna, sit amet convallis risus ullamcorper eu. Donec vel maximus libero, et auctor lacus.</p>
+<p>Nunc massa arcu, molestie id pharetra eu, consequat vitae orci. Morbi urna tortor, venenatis eu dui id, pulvinar sagittis ligula. Praesent ultricies eros diam, sit amet convallis tellus venenatis euismod. Vestibulum interdum sagittis ex quis bibendum. Donec non aliquam neque. Pellentesque finibus maximus ipsum, sed faucibus nibh bibendum sit amet. Praesent porta dictum felis eget lobortis. Morbi pulvinar ante at facilisis sodales. Praesent imperdiet mi nec justo malesuada tincidunt. Ut semper nisi lectus, in efficitur massa condimentum in. Nam tincidunt viverra iaculis.</p>
+</div></div><style type="text/css">.fusion-body .fusion-builder-column-3{width:100% !important;margin-top : 0px;margin-bottom : 20px;}.fusion-builder-column-3 > .fusion-column-wrapper {padding-top : 0px !important;padding-right : 0px !important;margin-right : 0px;padding-bottom : 0px !important;padding-left : 0px !important;margin-left : 0px;}@media only screen and (max-width:1024px) {.fusion-body .fusion-builder-column-3{width:100% !important;}.fusion-builder-column-3 > .fusion-column-wrapper {margin-right : 0px;margin-left : 0px;}}@media only screen and (max-width:640px) {.fusion-body .fusion-builder-column-3{width:100% !important;}.fusion-builder-column-3 > .fusion-column-wrapper {margin-right : 0px;margin-left : 0px;}}</style></div></div><style type="text/css">.fusion-body .fusion-flex-container.fusion-builder-row-4{ padding-top : 0px;margin-top : 0px;padding-right : 0px;padding-bottom : 0px;margin-bottom : 0px;padding-left : 0px;}</style></div>
+]]></content:encoded>
+					
+					<wfw:commentRss>/site77/2020/04/06/the-pepperoni-classic/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Delivery To Your Garden</title>
+		<link>/site77/2020/04/06/delivery-to-your-garden/</link>
+					<comments>/site77/2020/04/06/delivery-to-your-garden/#respond</comments>
+		
+		<dc:creator><![CDATA[wpuser]]></dc:creator>
+		<pubDate>Mon, 06 Apr 2020 13:55:22 +0000</pubDate>
+				<category><![CDATA[Services]]></category>
+		<guid isPermaLink="false">/site77/?p=155</guid>
+
+					<description><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam aliquam eget est sed vulputate. Morbi commodo turpis vel condimentum semper. Integer ut commodo eros. Vestibulum non scelerisque tortor, nec porta nulla. Duis massa justo, facilisis a diam tristique, fermentum venenatis purus. Etiam vitae imperdiet mauris, vel fringilla ipsum. Etiam finibus consectetur leo, vel tincidunt]]></description>
+										<content:encoded><![CDATA[<div class="fusion-fullwidth fullwidth-box fusion-builder-row-5 fusion-flex-container nonhundred-percent-fullwidth non-hundred-percent-height-scrolling" style="background-color: rgba(255,255,255,0);background-position: center center;background-repeat: no-repeat;border-width: 0px 0px 0px 0px;border-color:var(--awb-color2);border-style:solid;" ><div class="fusion-builder-row fusion-row fusion-flex-align-items-flex-start" style="max-width:calc( 1200px + 0px );margin-left: calc(-0px / 2 );margin-right: calc(-0px / 2 );"><div class="fusion-layout-column fusion_builder_column fusion-builder-column-4 fusion_builder_column_1_1 1_1 fusion-flex-column"><div class="fusion-column-wrapper fusion-flex-justify-content-flex-start fusion-content-layout-column" style="background-position:left top;background-repeat:no-repeat;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;padding: 0px 0px 0px 0px;"><div class="fusion-text fusion-text-5"><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam aliquam eget est sed vulputate. Morbi commodo turpis vel condimentum semper. Integer ut commodo eros. Vestibulum non scelerisque tortor, nec porta nulla. Duis massa justo, facilisis a diam tristique, fermentum venenatis purus. Etiam vitae imperdiet mauris, vel fringilla ipsum. Etiam finibus consectetur leo, vel tincidunt dolor volutpat nec.</p>
+<p>Fusce condimentum, dolor id tincidunt efficitur, lorem neque malesuada eros, in vulputate eros sapien eu nulla. Duis feugiat sed nunc finibus lobortis. Sed vel vulputate sem. Suspendisse magna ex, lacinia vitae sagittis quis, fringilla sit amet libero. Ut velit nisi, ultrices sed massa in, finibus dictum risus. Vivamus auctor lacus magna, sit amet convallis risus ullamcorper eu. Donec vel maximus libero, et auctor lacus.</p>
+<p>Nunc massa arcu, molestie id pharetra eu, consequat vitae orci. Morbi urna tortor, venenatis eu dui id, pulvinar sagittis ligula. Praesent ultricies eros diam, sit amet convallis tellus venenatis euismod. Vestibulum interdum sagittis ex quis bibendum. Donec non aliquam neque. Pellentesque finibus maximus ipsum, sed faucibus nibh bibendum sit amet. Praesent porta dictum felis eget lobortis. Morbi pulvinar ante at facilisis sodales. Praesent imperdiet mi nec justo malesuada tincidunt. Ut semper nisi lectus, in efficitur massa condimentum in. Nam tincidunt viverra iaculis.</p>
+</div></div><style type="text/css">.fusion-body .fusion-builder-column-4{width:100% !important;margin-top : 0px;margin-bottom : 20px;}.fusion-builder-column-4 > .fusion-column-wrapper {padding-top : 0px !important;padding-right : 0px !important;margin-right : 0px;padding-bottom : 0px !important;padding-left : 0px !important;margin-left : 0px;}@media only screen and (max-width:1024px) {.fusion-body .fusion-builder-column-4{width:100% !important;}.fusion-builder-column-4 > .fusion-column-wrapper {margin-right : 0px;margin-left : 0px;}}@media only screen and (max-width:640px) {.fusion-body .fusion-builder-column-4{width:100% !important;}.fusion-builder-column-4 > .fusion-column-wrapper {margin-right : 0px;margin-left : 0px;}}</style></div></div><style type="text/css">.fusion-body .fusion-flex-container.fusion-builder-row-5{ padding-top : 0px;margin-top : 0px;padding-right : 0px;padding-bottom : 0px;margin-bottom : 0px;padding-left : 0px;}</style></div>
+]]></content:encoded>
+					
+					<wfw:commentRss>/site77/2020/04/06/delivery-to-your-garden/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

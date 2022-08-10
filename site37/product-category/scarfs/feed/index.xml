@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Scarfs &#8211; Avada Modern Shop</title>
+	<atom:link href="/site37/product-category/scarfs/feed/" rel="self" type="application/rss+xml" />
+	<link>/site37</link>
+	<description>Just another MySite_aku9 Sites site</description>
+	<lastBuildDate>Tue, 01 Dec 2015 17:31:28 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0.1</generator>
+	<item>
+		<title>Infinity Scarf</title>
+		<link>/site37/product/infinity-scarf/</link>
+					<comments>/site37/product/infinity-scarf/#respond</comments>
+		
+		<dc:creator><![CDATA[wpuser]]></dc:creator>
+		<pubDate>Tue, 01 Dec 2015 17:31:28 +0000</pubDate>
+				<guid isPermaLink="false">/site37/product/product-13/</guid>
+
+					<description><![CDATA[Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nam egestas quam vitae fringilla blandit. Nullam pretium sapien et varius convallis. Morbi venenatis egestas consequat. Nulla facilisi. Suspendisse potenti. Curabitur placerat imperdiet fermentum. [...]]]></description>
+										<content:encoded><![CDATA[<p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.</p>
+<p>Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/site37/product/infinity-scarf/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Twill Scarf</title>
+		<link>/site37/product/twill-scarf/</link>
+					<comments>/site37/product/twill-scarf/#respond</comments>
+		
+		<dc:creator><![CDATA[wpuser]]></dc:creator>
+		<pubDate>Tue, 12 May 2015 11:17:51 +0000</pubDate>
+				<guid isPermaLink="false">/site37/?post_type=product&#038;p=60</guid>
+
+					<description><![CDATA[Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nam egestas quam vitae fringilla blandit. Nullam pretium sapien et varius convallis. Morbi venenatis egestas consequat. Nulla facilisi. Suspendisse potenti. Curabitur placerat imperdiet fermentum. [...]]]></description>
+										<content:encoded><![CDATA[<p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.</p>
+<p>Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/site37/product/twill-scarf/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

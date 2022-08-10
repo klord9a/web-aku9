@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Bucket List &#8211; Avada Travel</title>
+	<atom:link href="/site43/tag/bucket-list/feed/" rel="self" type="application/rss+xml" />
+	<link>/site43</link>
+	<description>Just another MySite_aku9 Sites site</description>
+	<lastBuildDate>Tue, 27 Jan 2015 18:29:06 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0.1</generator>
+	<item>
+		<title>Deals of the Week</title>
+		<link>/site43/2015/01/27/deals-of-the-week/</link>
+					<comments>/site43/2015/01/27/deals-of-the-week/#respond</comments>
+		
+		<dc:creator><![CDATA[wpuser]]></dc:creator>
+		<pubDate>Tue, 27 Jan 2015 18:29:06 +0000</pubDate>
+				<category><![CDATA[Feature]]></category>
+		<category><![CDATA[General]]></category>
+		<category><![CDATA[Summer]]></category>
+		<category><![CDATA[Warm Countries]]></category>
+		<category><![CDATA[Bucket List]]></category>
+		<category><![CDATA[Special]]></category>
+		<guid isPermaLink="false">https://avada.theme-fusion.com_demos/travel/?p=89</guid>
+
+					<description><![CDATA[Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque [...]]]></description>
+										<content:encoded><![CDATA[<div class="fusion-fullwidth fullwidth-box fusion-builder-row-1 fusion-flex-container nonhundred-percent-fullwidth non-hundred-percent-height-scrolling" style="background-color: rgba(255,255,255,0);background-position: center center;background-repeat: no-repeat;border-width: 0px 0px 0px 0px;border-color:var(--awb-color2);border-style:solid;" ><div class="fusion-builder-row fusion-row fusion-flex-align-items-flex-start" style="max-width:calc( 1170px + 0px );margin-left: calc(-0px / 2 );margin-right: calc(-0px / 2 );"><div class="fusion-layout-column fusion_builder_column fusion-builder-column-0 fusion_builder_column_1_1 1_1 fusion-flex-column"><div class="fusion-column-wrapper fusion-flex-justify-content-flex-start fusion-content-layout-column" style="background-position:left top;background-repeat:no-repeat;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;padding: 0px 0px 0px 0px;"><div class="fusion-text fusion-text-1"><p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?</p>
+</div></div><style type="text/css">.fusion-body .fusion-builder-column-0{width:100% !important;margin-top : 0px;margin-bottom : 0px;}.fusion-builder-column-0 > .fusion-column-wrapper {padding-top : 0px !important;padding-right : 0px !important;margin-right : 0px;padding-bottom : 0px !important;padding-left : 0px !important;margin-left : 0px;}@media only screen and (max-width:1024px) {.fusion-body .fusion-builder-column-0{width:100% !important;}.fusion-builder-column-0 > .fusion-column-wrapper {margin-right : 0px;margin-left : 0px;}}@media only screen and (max-width:640px) {.fusion-body .fusion-builder-column-0{width:100% !important;}.fusion-builder-column-0 > .fusion-column-wrapper {margin-right : 0px;margin-left : 0px;}}</style></div></div><style type="text/css">.fusion-body .fusion-flex-container.fusion-builder-row-1{ padding-top : 0px;margin-top : 0px;padding-right : 0px;padding-bottom : 0px;margin-bottom : 0px;padding-left : 0px;}</style></div>
+]]></content:encoded>
+					
+					<wfw:commentRss>/site43/2015/01/27/deals-of-the-week/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

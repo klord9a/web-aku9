@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Holiday decorations &#8211; Avada Handmade</title>
+	<atom:link href="/site65/product-tag/holiday-decorations/feed/" rel="self" type="application/rss+xml" />
+	<link>/site65</link>
+	<description>Just another MySite_aku9 Sites site</description>
+	<lastBuildDate>Thu, 30 Jun 2022 05:19:43 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0.1</generator>
+	<item>
+		<title>Christmas ornaments #3</title>
+		<link>/site65/product/christmas-ornaments-3/</link>
+					<comments>/site65/product/christmas-ornaments-3/#comments</comments>
+		
+		<dc:creator><![CDATA[wpuser]]></dc:creator>
+		<pubDate>Wed, 02 Dec 2020 19:08:46 +0000</pubDate>
+				<guid isPermaLink="false">/site65/?post_type=product&#038;p=1148</guid>
+
+					<description><![CDATA[Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Vivamus magna justo, lacinia eget consectetur sed, convallis at tellus.]]></description>
+										<content:encoded><![CDATA[Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Vivamus magna justo, lacinia eget consectetur sed, convallis at tellus.]]></content:encoded>
+					
+					<wfw:commentRss>/site65/product/christmas-ornaments-3/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Christmas ornaments #2</title>
+		<link>/site65/product/christmas-ornaments-2/</link>
+					<comments>/site65/product/christmas-ornaments-2/#comments</comments>
+		
+		<dc:creator><![CDATA[wpuser]]></dc:creator>
+		<pubDate>Wed, 02 Dec 2020 19:03:13 +0000</pubDate>
+				<guid isPermaLink="false">/site65/?post_type=product&#038;p=1137</guid>
+
+					<description><![CDATA[Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Vivamus magna justo, lacinia eget consectetur sed, convallis at tellus.]]></description>
+										<content:encoded><![CDATA[Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Vivamus magna justo, lacinia eget consectetur sed, convallis at tellus.]]></content:encoded>
+					
+					<wfw:commentRss>/site65/product/christmas-ornaments-2/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Christmas ornaments #1</title>
+		<link>/site65/product/christmas-ornaments-1/</link>
+					<comments>/site65/product/christmas-ornaments-1/#comments</comments>
+		
+		<dc:creator><![CDATA[wpuser]]></dc:creator>
+		<pubDate>Wed, 02 Dec 2020 17:14:28 +0000</pubDate>
+				<guid isPermaLink="false">/site65/?post_type=product&#038;p=1052</guid>
+
+					<description><![CDATA[Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Vivamus magna justo, lacinia eget consectetur sed, convallis at tellus.]]></description>
+										<content:encoded><![CDATA[Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Vivamus magna justo, lacinia eget consectetur sed, convallis at tellus.]]></content:encoded>
+					
+					<wfw:commentRss>/site65/product/christmas-ornaments-1/feed/</wfw:commentRss>
+			<slash:comments>2</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

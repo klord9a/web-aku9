@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Prebuilt Demo &#8211; Avada Digital Agency</title>
+	<atom:link href="/site57/product-category/prebuilt-demo/feed/" rel="self" type="application/rss+xml" />
+	<link>/site57</link>
+	<description>Just another MySite_aku9 Sites site</description>
+	<lastBuildDate>Mon, 12 Apr 2021 19:13:40 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0.1</generator>
+	<item>
+		<title>Avada Podcast</title>
+		<link>/site57/product/avada-podcast/</link>
+					<comments>/site57/product/avada-podcast/#respond</comments>
+		
+		<dc:creator><![CDATA[wpuser]]></dc:creator>
+		<pubDate>Mon, 12 Apr 2021 19:13:40 +0000</pubDate>
+				<guid isPermaLink="false">/site57/?post_type=product&#038;p=321</guid>
+
+					<description><![CDATA[Sed porttitor lectus nibh. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur non nulla sit amet nisl tempus convallis.]]></description>
+										<content:encoded><![CDATA[<p>Sed porttitor lectus nibh. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur non nulla sit amet nisl tempus convallis.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/site57/product/avada-podcast/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Avada Restaurant</title>
+		<link>/site57/product/avada-restaurant/</link>
+					<comments>/site57/product/avada-restaurant/#respond</comments>
+		
+		<dc:creator><![CDATA[wpuser]]></dc:creator>
+		<pubDate>Mon, 12 Apr 2021 18:44:25 +0000</pubDate>
+				<guid isPermaLink="false">/site57/?post_type=product&#038;p=294</guid>
+
+					<description><![CDATA[Sed porttitor lectus nibh. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur non nulla sit amet nisl tempus convallis.]]></description>
+										<content:encoded><![CDATA[<p>Sed porttitor lectus nibh. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur non nulla sit amet nisl tempus convallis.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/site57/product/avada-restaurant/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Avada Takeout</title>
+		<link>/site57/product/avada-takeout/</link>
+					<comments>/site57/product/avada-takeout/#respond</comments>
+		
+		<dc:creator><![CDATA[wpuser]]></dc:creator>
+		<pubDate>Sun, 11 Apr 2021 19:13:57 +0000</pubDate>
+				<guid isPermaLink="false">/site57/?post_type=product&#038;p=323</guid>
+
+					<description><![CDATA[Sed porttitor lectus nibh. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur non nulla sit amet nisl tempus convallis.]]></description>
+										<content:encoded><![CDATA[<p>Sed porttitor lectus nibh. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur non nulla sit amet nisl tempus convallis.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/site57/product/avada-takeout/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

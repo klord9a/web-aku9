@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: Golden Lamp	</title>
+	<atom:link href="/site78/product/golden-lamp/feed/" rel="self" type="application/rss+xml" />
+	<link>/site78/product/golden-lamp/</link>
+	<description>Just another MySite_aku9 Sites site</description>
+	<lastBuildDate>Thu, 30 Jun 2022 05:48:44 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0.1</generator>
+	<item>
+		<title>
+		By: Andrew		</title>
+		<link>/site78/product/golden-lamp/#comment-5</link>
+
+		<dc:creator><![CDATA[Andrew]]></dc:creator>
+		<pubDate>Tue, 04 Feb 2020 20:43:01 +0000</pubDate>
+		<guid isPermaLink="false">/site78/?post_type=product&#038;p=700#comment-5</guid>
+
+					<description><![CDATA[Wow, just amazing guys!]]></description>
+			<content:encoded><![CDATA[<p>Wow, just amazing guys!</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

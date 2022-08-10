@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Products &#8211; Avada Barber Shop</title>
+	<atom:link href="/site7/shop-2/feed/" rel="self" type="application/rss+xml" />
+	<link>/site7</link>
+	<description>Just another MySite_aku9 Sites site</description>
+	<lastBuildDate>Mon, 07 Jan 2019 13:48:56 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0.1</generator>
+	<item>
+		<title>Brush</title>
+		<link>/site7/product/brush/</link>
+					<comments>/site7/product/brush/#respond</comments>
+		
+		<dc:creator><![CDATA[wpuser]]></dc:creator>
+		<pubDate>Mon, 07 Jan 2019 13:48:56 +0000</pubDate>
+				<guid isPermaLink="false">/site7/?post_type=product&#038;p=805</guid>
+
+					<description><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean sit amet felis sed nibh pulvinar dictum condimentum ac nibh.]]></description>
+										<content:encoded><![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean sit amet felis sed nibh pulvinar dictum condimentum ac nibh. Duis dictum molestie orci, et malesuada purus finibus eu. Nunc laoreet, dui lacinia egestas ultrices, diam neque varius nibh, ac tristique arcu tellus vel mauris. Sed eget mauris volutpat arcu congue tempus et congue tellus.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/site7/product/brush/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Scissors</title>
+		<link>/site7/product/scissors/</link>
+					<comments>/site7/product/scissors/#respond</comments>
+		
+		<dc:creator><![CDATA[wpuser]]></dc:creator>
+		<pubDate>Mon, 07 Jan 2019 13:38:48 +0000</pubDate>
+				<guid isPermaLink="false">/site7/?post_type=product&#038;p=803</guid>
+
+					<description><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean sit amet felis sed nibh pulvinar dictum condimentum ac nibh.]]></description>
+										<content:encoded><![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean sit amet felis sed nibh pulvinar dictum condimentum ac nibh. Duis dictum molestie orci, et malesuada purus finibus eu. Nunc laoreet, dui lacinia egestas ultrices, diam neque varius nibh, ac tristique arcu tellus vel mauris. Sed eget mauris volutpat arcu congue tempus et congue tellus.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/site7/product/scissors/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Hot Oil</title>
+		<link>/site7/product/hot-oil/</link>
+					<comments>/site7/product/hot-oil/#respond</comments>
+		
+		<dc:creator><![CDATA[wpuser]]></dc:creator>
+		<pubDate>Mon, 07 Jan 2019 12:54:22 +0000</pubDate>
+				<guid isPermaLink="false">/site7/?post_type=product&#038;p=801</guid>
+
+					<description><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean sit amet felis sed nibh pulvinar dictum condimentum ac nibh.]]></description>
+										<content:encoded><![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean sit amet felis sed nibh pulvinar dictum condimentum ac nibh. Duis dictum molestie orci, et malesuada purus finibus eu. Nunc laoreet, dui lacinia egestas ultrices, diam neque varius nibh, ac tristique arcu tellus vel mauris. Sed eget mauris volutpat arcu congue tempus et congue tellus.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/site7/product/hot-oil/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Straight Razor</title>
+		<link>/site7/product/straight-razor/</link>
+					<comments>/site7/product/straight-razor/#respond</comments>
+		
+		<dc:creator><![CDATA[wpuser]]></dc:creator>
+		<pubDate>Mon, 07 Jan 2019 12:23:37 +0000</pubDate>
+				<guid isPermaLink="false">/site7/?post_type=product&#038;p=799</guid>
+
+					<description><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean sit amet felis sed nibh pulvinar dictum condimentum ac nibh.]]></description>
+										<content:encoded><![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean sit amet felis sed nibh pulvinar dictum condimentum ac nibh. Duis dictum molestie orci, et malesuada purus finibus eu. Nunc laoreet, dui lacinia egestas ultrices, diam neque varius nibh, ac tristique arcu tellus vel mauris. Sed eget mauris volutpat arcu congue tempus et congue tellus.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/site7/product/straight-razor/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Safety Set</title>
+		<link>/site7/product/safety-set/</link>
+					<comments>/site7/product/safety-set/#respond</comments>
+		
+		<dc:creator><![CDATA[wpuser]]></dc:creator>
+		<pubDate>Mon, 07 Jan 2019 12:16:51 +0000</pubDate>
+				<guid isPermaLink="false">/site7/?post_type=product&#038;p=797</guid>
+
+					<description><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean sit amet felis sed nibh pulvinar dictum condimentum ac nibh.]]></description>
+										<content:encoded><![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean sit amet felis sed nibh pulvinar dictum condimentum ac nibh. Duis dictum molestie orci, et malesuada purus finibus eu. Nunc laoreet, dui lacinia egestas ultrices, diam neque varius nibh, ac tristique arcu tellus vel mauris. Sed eget mauris volutpat arcu congue tempus et congue tellus.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/site7/product/safety-set/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Shave Balm</title>
+		<link>/site7/product/shave-balm/</link>
+					<comments>/site7/product/shave-balm/#respond</comments>
+		
+		<dc:creator><![CDATA[wpuser]]></dc:creator>
+		<pubDate>Mon, 07 Jan 2019 11:15:55 +0000</pubDate>
+				<guid isPermaLink="false">/site7/?post_type=product&#038;p=784</guid>
+
+					<description><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean sit amet felis sed nibh pulvinar dictum condimentum ac nibh.]]></description>
+										<content:encoded><![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean sit amet felis sed nibh pulvinar dictum condimentum ac nibh. Duis dictum molestie orci, et malesuada purus finibus eu. Nunc laoreet, dui lacinia egestas ultrices, diam neque varius nibh, ac tristique arcu tellus vel mauris. Sed eget mauris volutpat arcu congue tempus et congue tellus.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/site7/product/shave-balm/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

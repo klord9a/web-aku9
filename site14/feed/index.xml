@@ -1,0 +1,333 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Avada Beer</title>
+	<atom:link href="/site14/feed/" rel="self" type="application/rss+xml" />
+	<link>/site14</link>
+	<description>Just another MySite_aku9 Sites site</description>
+	<lastBuildDate>Wed, 29 Jun 2022 13:54:47 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0.1</generator>
+	<item>
+		<title>Hello world!</title>
+		<link>/site14/2022/06/29/hello-world/</link>
+					<comments>/site14/2022/06/29/hello-world/#comments</comments>
+		
+		<dc:creator><![CDATA[wpuser]]></dc:creator>
+		<pubDate>Wed, 29 Jun 2022 09:03:40 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">/site14/?p=1</guid>
+
+					<description><![CDATA[Welcome to MySite_aku9 Sites. This is your first post. Edit or delete it, then start writing!]]></description>
+										<content:encoded><![CDATA[<p>Welcome to <a href="https://web-aku9.run-us-west2.goorm.io/">MySite_aku9 Sites</a>. This is your first post. Edit or delete it, then start writing!</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/site14/2022/06/29/hello-world/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>The Hippest Hops</title>
+		<link>/site14/2017/12/03/the-hippest-hops/</link>
+					<comments>/site14/2017/12/03/the-hippest-hops/#respond</comments>
+		
+		<dc:creator><![CDATA[wpuser]]></dc:creator>
+		<pubDate>Sun, 03 Dec 2017 15:31:29 +0000</pubDate>
+				<category><![CDATA[Blog]]></category>
+		<category><![CDATA[Hops]]></category>
+		<category><![CDATA[News]]></category>
+		<guid isPermaLink="false">/site14/?p=1191</guid>
+
+					<description><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla fermentum cursus lorem in varius. Quisque tempus rhoncus eros. Aenean turpis tellus, dictum congue augue id, hendrerit mollis eros. Nulla sed est hendrerit, scelerisque purus vel, iaculis eros.Nam sed accumsan lectus, id pharetra nibh ettra uns aliquam ficilis lorem sits un doloresAt iaculis ex am lacinia, [...]]]></description>
+										<content:encoded><![CDATA[<div class="fusion-fullwidth fullwidth-box fusion-builder-row-1 fusion-flex-container nonhundred-percent-fullwidth non-hundred-percent-height-scrolling" style="background-color: rgba(255,255,255,0);background-position: center center;background-repeat: no-repeat;border-width: 0px 0px 0px 0px;border-color:var(--awb-color7);border-style:solid;" ><div class="fusion-builder-row fusion-row fusion-flex-align-items-flex-start" style="max-width:calc( 1200px + 0px );margin-left: calc(-0px / 2 );margin-right: calc(-0px / 2 );"><div class="fusion-layout-column fusion_builder_column fusion-builder-column-0 fusion_builder_column_1_1 1_1 fusion-flex-column"><div class="fusion-column-wrapper fusion-flex-justify-content-flex-start fusion-content-layout-column" style="background-position:left top;background-repeat:no-repeat;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;padding: 0px 0px 0px 0px;"><div class="fusion-text fusion-text-1 fusion-text-split-columns fusion-text-columns-3" style=" -webkit-column-count:3; -webkit-column-gap:50px; -webkit-column-width:200px; -moz-column-count:3; -moz-column-gap:50px; -moz-column-width:200px; column-count:3; column-gap:50px; column-width:200px;"><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla fermentum cursus lorem in varius. Quisque tempus rhoncus eros. Aenean turpis tellus, dictum congue augue id, hendrerit mollis eros. Nulla sed est hendrerit, scelerisque purus vel, iaculis eros.</p>
+<blockquote>
+<p><span style="color: var(--awb-color3);"><em><strong>Nam sed accumsan lectus, id pharetra nibh ettra uns aliquam ficilis lorem sits un dolores</strong></em></span></p>
+</blockquote>
+<p>At iaculis ex am lacinia, quam sed venenatis rutrum, nisl mi ultrices metus, ac feugiat nulla ipsum eget velit. Phasellus at rhoncus magna. Aliquam orci magna, aliquam in sollicitudin eget, imperdiet quis velit. Praesent suscipit nisi nisl, eu vulputate sem euismod nec. Nulla tempus, enim a porta convallis, urna dui pretium lacus, id venenatis arcu erat nec augue. Sed id suscipit odio. Sed eleifend enim non nunc malesuada, fringilla mollis erat rutrum.</p>
+<p>Fusce in libero porta, interdum ex et, tempor metus. Pellentesque sed tincidunt velit, non mollis urna. Cras justo diam, vestibulum sed erat non, semper fringilla nibh. Sed ultricies magna viverra, tincidunt erat sit amet, placerat justo. In hendrerit nisi eu dui consectetur, id eleifend nulla pretium. Nulla aliquam porta nunc ultrices ultrices. Praesent molestie mi vitae sollicitudin ultricies. Nulla facilisi.</p>
+<p>Sed venenatis, felis ut laoreet ultrices, nunc nunc vehicula purus, nec elementum mauris mi in leo. Aliquam eget porttitor sem. Morbi fringilla diam eu mattis viverra. In eu leo non lectus mattis varius. Vivamus molestie turpis mauris. Donec at leo eros.</p>
+<p>Vivamus nec sollicitudin ipsum. Duis luctus varius tempor. Morbi sagittis magna non mauris rutrum sodales. Praesent quis felis lectus. Sed sed dui ac dui tincidunt mattis sit amet ut sem. Phasellus luctus at ligula sit amet tempor. Integer purus quam, sollicitudin non lacinia et, iaculis in lectus. Aliquam ac neque diam. Praesent at aliquet est, eget rutrum erat. Pellentesque eget quam felis.</p>
+<p>Proin volutpat sapien ut scelerisque molestie. Fusce id risus pellentesque, dignissim leo quis, imperdiet purus. Fusce finibus tellus vitae tellus porta, nec sagittis eros congue. Aenean semper sapien ante, porttitor posuere nulla tristique at. Curabitur ornare, metus ornare finibus mollis, mi ex fermentum ipsum, non maximus ipsum nisl tempus neque. Donec bibendum, ligula vel feugiat sagittis, ante sem tempor dolor, vitae.</p>
+<p><img class="size-full wp-image-1486 alignleft" style="margin-bottom: 20px;" src="/wp-content/uploads/sites/14/2017/11/awards.jpg" alt="" width="650" height="433" /></p>
+<p><a href="/site14/find-us/"><em><strong>Praesent euismod in diam gravida rhoncus. Maecenas vitae congue arcu.</strong></em></a></p>
+<p>Fusce sit amet sodales est. Sed id nulla sem. Phasellus tortor massa, ullamcorper id sem quis, hendrerit ultrices diam. Curabitur sapien mi, convallis et facilisis vel, fringilla in ante. Pellentesque mauris lectus, tincidunt quis leo quis, sollicitudin viverra justo.</p>
+</div></div><style type="text/css">.fusion-body .fusion-builder-column-0{width:100% !important;margin-top : 0px;margin-bottom : 0px;}.fusion-builder-column-0 > .fusion-column-wrapper {padding-top : 0px !important;padding-right : 0px !important;margin-right : 0px;padding-bottom : 0px !important;padding-left : 0px !important;margin-left : 0px;}@media only screen and (max-width:800px) {.fusion-body .fusion-builder-column-0{width:100% !important;}.fusion-builder-column-0 > .fusion-column-wrapper {margin-right : 0px;margin-left : 0px;}}@media only screen and (max-width:640px) {.fusion-body .fusion-builder-column-0{width:100% !important;}.fusion-builder-column-0 > .fusion-column-wrapper {margin-right : 0px;margin-left : 0px;}}</style></div></div><style type="text/css">.fusion-body .fusion-flex-container.fusion-builder-row-1{ padding-top : 45px;margin-top : 0px;padding-right : 0px;padding-bottom : 60px;margin-bottom : 0px;padding-left : 0px;}</style></div>
+]]></content:encoded>
+					
+					<wfw:commentRss>/site14/2017/12/03/the-hippest-hops/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Tasting Sessions</title>
+		<link>/site14/2017/12/03/tasting-sessions/</link>
+					<comments>/site14/2017/12/03/tasting-sessions/#respond</comments>
+		
+		<dc:creator><![CDATA[wpuser]]></dc:creator>
+		<pubDate>Sun, 03 Dec 2017 15:30:32 +0000</pubDate>
+				<category><![CDATA[Blog]]></category>
+		<category><![CDATA[Hops]]></category>
+		<category><![CDATA[News]]></category>
+		<guid isPermaLink="false">/site14/?p=1189</guid>
+
+					<description><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla fermentum cursus lorem in varius. Quisque tempus rhoncus eros. Aenean turpis tellus, dictum congue augue id, hendrerit mollis eros. Nulla sed est hendrerit, scelerisque purus vel, iaculis eros.Nam sed accumsan lectus, id pharetra nibh ettra uns aliquam ficilis lorem sits un doloresAt iaculis ex am lacinia, [...]]]></description>
+										<content:encoded><![CDATA[<div class="fusion-fullwidth fullwidth-box fusion-builder-row-2 fusion-flex-container nonhundred-percent-fullwidth non-hundred-percent-height-scrolling" style="background-color: rgba(255,255,255,0);background-position: center center;background-repeat: no-repeat;border-width: 0px 0px 0px 0px;border-color:var(--awb-color7);border-style:solid;" ><div class="fusion-builder-row fusion-row fusion-flex-align-items-flex-start" style="max-width:calc( 1200px + 0px );margin-left: calc(-0px / 2 );margin-right: calc(-0px / 2 );"><div class="fusion-layout-column fusion_builder_column fusion-builder-column-1 fusion_builder_column_1_1 1_1 fusion-flex-column"><div class="fusion-column-wrapper fusion-flex-justify-content-flex-start fusion-content-layout-column" style="background-position:left top;background-repeat:no-repeat;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;padding: 0px 0px 0px 0px;"><div class="fusion-text fusion-text-2 fusion-text-split-columns fusion-text-columns-3" style=" -webkit-column-count:3; -webkit-column-gap:50px; -webkit-column-width:200px; -moz-column-count:3; -moz-column-gap:50px; -moz-column-width:200px; column-count:3; column-gap:50px; column-width:200px;"><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla fermentum cursus lorem in varius. Quisque tempus rhoncus eros. Aenean turpis tellus, dictum congue augue id, hendrerit mollis eros. Nulla sed est hendrerit, scelerisque purus vel, iaculis eros.</p>
+<blockquote>
+<p><span style="color: var(--awb-color3);"><em><strong>Nam sed accumsan lectus, id pharetra nibh ettra uns aliquam ficilis lorem sits un dolores</strong></em></span></p>
+</blockquote>
+<p>At iaculis ex am lacinia, quam sed venenatis rutrum, nisl mi ultrices metus, ac feugiat nulla ipsum eget velit. Phasellus at rhoncus magna. Aliquam orci magna, aliquam in sollicitudin eget, imperdiet quis velit. Praesent suscipit nisi nisl, eu vulputate sem euismod nec. Nulla tempus, enim a porta convallis, urna dui pretium lacus, id venenatis arcu erat nec augue. Sed id suscipit odio. Sed eleifend enim non nunc malesuada, fringilla mollis erat rutrum.</p>
+<p>Fusce in libero porta, interdum ex et, tempor metus. Pellentesque sed tincidunt velit, non mollis urna. Cras justo diam, vestibulum sed erat non, semper fringilla nibh. Sed ultricies magna viverra, tincidunt erat sit amet, placerat justo. In hendrerit nisi eu dui consectetur, id eleifend nulla pretium. Nulla aliquam porta nunc ultrices ultrices. Praesent molestie mi vitae sollicitudin ultricies. Nulla facilisi.</p>
+<p>Sed venenatis, felis ut laoreet ultrices, nunc nunc vehicula purus, nec elementum mauris mi in leo. Aliquam eget porttitor sem. Morbi fringilla diam eu mattis viverra. In eu leo non lectus mattis varius. Vivamus molestie turpis mauris. Donec at leo eros.</p>
+<p>Vivamus nec sollicitudin ipsum. Duis luctus varius tempor. Morbi sagittis magna non mauris rutrum sodales. Praesent quis felis lectus. Sed sed dui ac dui tincidunt mattis sit amet ut sem. Phasellus luctus at ligula sit amet tempor. Integer purus quam, sollicitudin non lacinia et, iaculis in lectus. Aliquam ac neque diam. Praesent at aliquet est, eget rutrum erat. Pellentesque eget quam felis.</p>
+<p>Proin volutpat sapien ut scelerisque molestie. Fusce id risus pellentesque, dignissim leo quis, imperdiet purus. Fusce finibus tellus vitae tellus porta, nec sagittis eros congue. Aenean semper sapien ante, porttitor posuere nulla tristique at. Curabitur ornare, metus ornare finibus mollis, mi ex fermentum ipsum, non maximus ipsum nisl tempus neque. Donec bibendum, ligula vel feugiat sagittis, ante sem tempor dolor, vitae.</p>
+<p><img class="size-full wp-image-1486 alignleft" style="margin-bottom: 20px;" src="/wp-content/uploads/sites/14/2017/11/awards.jpg" alt="" width="650" height="433" /></p>
+<p><a href="/site14/find-us/"><em><strong>Praesent euismod in diam gravida rhoncus. Maecenas vitae congue arcu.</strong></em></a></p>
+<p>Fusce sit amet sodales est. Sed id nulla sem. Phasellus tortor massa, ullamcorper id sem quis, hendrerit ultrices diam. Curabitur sapien mi, convallis et facilisis vel, fringilla in ante. Pellentesque mauris lectus, tincidunt quis leo quis, sollicitudin viverra justo.</p>
+</div></div><style type="text/css">.fusion-body .fusion-builder-column-1{width:100% !important;margin-top : 0px;margin-bottom : 0px;}.fusion-builder-column-1 > .fusion-column-wrapper {padding-top : 0px !important;padding-right : 0px !important;margin-right : 0px;padding-bottom : 0px !important;padding-left : 0px !important;margin-left : 0px;}@media only screen and (max-width:800px) {.fusion-body .fusion-builder-column-1{width:100% !important;}.fusion-builder-column-1 > .fusion-column-wrapper {margin-right : 0px;margin-left : 0px;}}@media only screen and (max-width:640px) {.fusion-body .fusion-builder-column-1{width:100% !important;}.fusion-builder-column-1 > .fusion-column-wrapper {margin-right : 0px;margin-left : 0px;}}</style></div></div><style type="text/css">.fusion-body .fusion-flex-container.fusion-builder-row-2{ padding-top : 45px;margin-top : 0px;padding-right : 0px;padding-bottom : 60px;margin-bottom : 0px;padding-left : 0px;}</style></div>
+]]></content:encoded>
+					
+					<wfw:commentRss>/site14/2017/12/03/tasting-sessions/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>It&#8217;s Festival Time</title>
+		<link>/site14/2017/12/03/its-festival-time/</link>
+					<comments>/site14/2017/12/03/its-festival-time/#respond</comments>
+		
+		<dc:creator><![CDATA[wpuser]]></dc:creator>
+		<pubDate>Sun, 03 Dec 2017 15:29:42 +0000</pubDate>
+				<category><![CDATA[Blog]]></category>
+		<category><![CDATA[Hops]]></category>
+		<category><![CDATA[News]]></category>
+		<guid isPermaLink="false">/site14/?p=1187</guid>
+
+					<description><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla fermentum cursus lorem in varius. Quisque tempus rhoncus eros. Aenean turpis tellus, dictum congue augue id, hendrerit mollis eros. Nulla sed est hendrerit, scelerisque purus vel, iaculis eros.Nam sed accumsan lectus, id pharetra nibh ettra uns aliquam ficilis lorem sits un doloresAt iaculis ex am lacinia, [...]]]></description>
+										<content:encoded><![CDATA[<div class="fusion-fullwidth fullwidth-box fusion-builder-row-3 fusion-flex-container nonhundred-percent-fullwidth non-hundred-percent-height-scrolling" style="background-color: rgba(255,255,255,0);background-position: center center;background-repeat: no-repeat;border-width: 0px 0px 0px 0px;border-color:var(--awb-color7);border-style:solid;" ><div class="fusion-builder-row fusion-row fusion-flex-align-items-flex-start" style="max-width:calc( 1200px + 0px );margin-left: calc(-0px / 2 );margin-right: calc(-0px / 2 );"><div class="fusion-layout-column fusion_builder_column fusion-builder-column-2 fusion_builder_column_1_1 1_1 fusion-flex-column"><div class="fusion-column-wrapper fusion-flex-justify-content-flex-start fusion-content-layout-column" style="background-position:left top;background-repeat:no-repeat;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;padding: 0px 0px 0px 0px;"><div class="fusion-text fusion-text-3 fusion-text-split-columns fusion-text-columns-3" style=" -webkit-column-count:3; -webkit-column-gap:50px; -webkit-column-width:200px; -moz-column-count:3; -moz-column-gap:50px; -moz-column-width:200px; column-count:3; column-gap:50px; column-width:200px;"><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla fermentum cursus lorem in varius. Quisque tempus rhoncus eros. Aenean turpis tellus, dictum congue augue id, hendrerit mollis eros. Nulla sed est hendrerit, scelerisque purus vel, iaculis eros.</p>
+<blockquote>
+<p><span style="color: var(--awb-color3);"><em><strong>Nam sed accumsan lectus, id pharetra nibh ettra uns aliquam ficilis lorem sits un dolores</strong></em></span></p>
+</blockquote>
+<p>At iaculis ex am lacinia, quam sed venenatis rutrum, nisl mi ultrices metus, ac feugiat nulla ipsum eget velit. Phasellus at rhoncus magna. Aliquam orci magna, aliquam in sollicitudin eget, imperdiet quis velit. Praesent suscipit nisi nisl, eu vulputate sem euismod nec. Nulla tempus, enim a porta convallis, urna dui pretium lacus, id venenatis arcu erat nec augue. Sed id suscipit odio. Sed eleifend enim non nunc malesuada, fringilla mollis erat rutrum.</p>
+<p>Fusce in libero porta, interdum ex et, tempor metus. Pellentesque sed tincidunt velit, non mollis urna. Cras justo diam, vestibulum sed erat non, semper fringilla nibh. Sed ultricies magna viverra, tincidunt erat sit amet, placerat justo. In hendrerit nisi eu dui consectetur, id eleifend nulla pretium. Nulla aliquam porta nunc ultrices ultrices. Praesent molestie mi vitae sollicitudin ultricies. Nulla facilisi.</p>
+<p>Sed venenatis, felis ut laoreet ultrices, nunc nunc vehicula purus, nec elementum mauris mi in leo. Aliquam eget porttitor sem. Morbi fringilla diam eu mattis viverra. In eu leo non lectus mattis varius. Vivamus molestie turpis mauris. Donec at leo eros.</p>
+<p>Vivamus nec sollicitudin ipsum. Duis luctus varius tempor. Morbi sagittis magna non mauris rutrum sodales. Praesent quis felis lectus. Sed sed dui ac dui tincidunt mattis sit amet ut sem. Phasellus luctus at ligula sit amet tempor. Integer purus quam, sollicitudin non lacinia et, iaculis in lectus. Aliquam ac neque diam. Praesent at aliquet est, eget rutrum erat. Pellentesque eget quam felis.</p>
+<p>Proin volutpat sapien ut scelerisque molestie. Fusce id risus pellentesque, dignissim leo quis, imperdiet purus. Fusce finibus tellus vitae tellus porta, nec sagittis eros congue. Aenean semper sapien ante, porttitor posuere nulla tristique at. Curabitur ornare, metus ornare finibus mollis, mi ex fermentum ipsum, non maximus ipsum nisl tempus neque. Donec bibendum, ligula vel feugiat sagittis, ante sem tempor dolor, vitae.</p>
+<p><img class="size-full wp-image-1486 alignleft" style="margin-bottom: 20px;" src="/wp-content/uploads/sites/14/2017/11/awards.jpg" alt="" width="650" height="433" /></p>
+<p><a href="/site14/find-us/"><em><strong>Praesent euismod in diam gravida rhoncus. Maecenas vitae congue arcu.</strong></em></a></p>
+<p>Fusce sit amet sodales est. Sed id nulla sem. Phasellus tortor massa, ullamcorper id sem quis, hendrerit ultrices diam. Curabitur sapien mi, convallis et facilisis vel, fringilla in ante. Pellentesque mauris lectus, tincidunt quis leo quis, sollicitudin viverra justo.</p>
+</div></div><style type="text/css">.fusion-body .fusion-builder-column-2{width:100% !important;margin-top : 0px;margin-bottom : 0px;}.fusion-builder-column-2 > .fusion-column-wrapper {padding-top : 0px !important;padding-right : 0px !important;margin-right : 0px;padding-bottom : 0px !important;padding-left : 0px !important;margin-left : 0px;}@media only screen and (max-width:800px) {.fusion-body .fusion-builder-column-2{width:100% !important;}.fusion-builder-column-2 > .fusion-column-wrapper {margin-right : 0px;margin-left : 0px;}}@media only screen and (max-width:640px) {.fusion-body .fusion-builder-column-2{width:100% !important;}.fusion-builder-column-2 > .fusion-column-wrapper {margin-right : 0px;margin-left : 0px;}}</style></div></div><style type="text/css">.fusion-body .fusion-flex-container.fusion-builder-row-3{ padding-top : 45px;margin-top : 0px;padding-right : 0px;padding-bottom : 60px;margin-bottom : 0px;padding-left : 0px;}</style></div>
+]]></content:encoded>
+					
+					<wfw:commentRss>/site14/2017/12/03/its-festival-time/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Our Next Craft Tour</title>
+		<link>/site14/2017/12/03/our-next-craft-tour/</link>
+					<comments>/site14/2017/12/03/our-next-craft-tour/#respond</comments>
+		
+		<dc:creator><![CDATA[wpuser]]></dc:creator>
+		<pubDate>Sun, 03 Dec 2017 15:27:35 +0000</pubDate>
+				<category><![CDATA[Blog]]></category>
+		<category><![CDATA[Hops]]></category>
+		<category><![CDATA[News]]></category>
+		<guid isPermaLink="false">/site14/?p=1183</guid>
+
+					<description><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla fermentum cursus lorem in varius. Quisque tempus rhoncus eros. Aenean turpis tellus, dictum congue augue id, hendrerit mollis eros. Nulla sed est hendrerit, scelerisque purus vel, iaculis eros.Nam sed accumsan lectus, id pharetra nibh ettra uns aliquam ficilis lorem sits un doloresAt iaculis ex am lacinia, [...]]]></description>
+										<content:encoded><![CDATA[<div class="fusion-fullwidth fullwidth-box fusion-builder-row-4 fusion-flex-container nonhundred-percent-fullwidth non-hundred-percent-height-scrolling" style="background-color: rgba(255,255,255,0);background-position: center center;background-repeat: no-repeat;border-width: 0px 0px 0px 0px;border-color:var(--awb-color7);border-style:solid;" ><div class="fusion-builder-row fusion-row fusion-flex-align-items-flex-start" style="max-width:calc( 1200px + 0px );margin-left: calc(-0px / 2 );margin-right: calc(-0px / 2 );"><div class="fusion-layout-column fusion_builder_column fusion-builder-column-3 fusion_builder_column_1_1 1_1 fusion-flex-column"><div class="fusion-column-wrapper fusion-flex-justify-content-flex-start fusion-content-layout-column" style="background-position:left top;background-repeat:no-repeat;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;padding: 0px 0px 0px 0px;"><div class="fusion-text fusion-text-4 fusion-text-split-columns fusion-text-columns-3" style=" -webkit-column-count:3; -webkit-column-gap:50px; -webkit-column-width:200px; -moz-column-count:3; -moz-column-gap:50px; -moz-column-width:200px; column-count:3; column-gap:50px; column-width:200px;"><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla fermentum cursus lorem in varius. Quisque tempus rhoncus eros. Aenean turpis tellus, dictum congue augue id, hendrerit mollis eros. Nulla sed est hendrerit, scelerisque purus vel, iaculis eros.</p>
+<blockquote>
+<p><span style="color: var(--awb-color3);"><em><strong>Nam sed accumsan lectus, id pharetra nibh ettra uns aliquam ficilis lorem sits un dolores</strong></em></span></p>
+</blockquote>
+<p>At iaculis ex am lacinia, quam sed venenatis rutrum, nisl mi ultrices metus, ac feugiat nulla ipsum eget velit. Phasellus at rhoncus magna. Aliquam orci magna, aliquam in sollicitudin eget, imperdiet quis velit. Praesent suscipit nisi nisl, eu vulputate sem euismod nec. Nulla tempus, enim a porta convallis, urna dui pretium lacus, id venenatis arcu erat nec augue. Sed id suscipit odio. Sed eleifend enim non nunc malesuada, fringilla mollis erat rutrum.</p>
+<p>Fusce in libero porta, interdum ex et, tempor metus. Pellentesque sed tincidunt velit, non mollis urna. Cras justo diam, vestibulum sed erat non, semper fringilla nibh. Sed ultricies magna viverra, tincidunt erat sit amet, placerat justo. In hendrerit nisi eu dui consectetur, id eleifend nulla pretium. Nulla aliquam porta nunc ultrices ultrices. Praesent molestie mi vitae sollicitudin ultricies. Nulla facilisi.</p>
+<p>Sed venenatis, felis ut laoreet ultrices, nunc nunc vehicula purus, nec elementum mauris mi in leo. Aliquam eget porttitor sem. Morbi fringilla diam eu mattis viverra. In eu leo non lectus mattis varius. Vivamus molestie turpis mauris. Donec at leo eros.</p>
+<p>Vivamus nec sollicitudin ipsum. Duis luctus varius tempor. Morbi sagittis magna non mauris rutrum sodales. Praesent quis felis lectus. Sed sed dui ac dui tincidunt mattis sit amet ut sem. Phasellus luctus at ligula sit amet tempor. Integer purus quam, sollicitudin non lacinia et, iaculis in lectus. Aliquam ac neque diam. Praesent at aliquet est, eget rutrum erat. Pellentesque eget quam felis.</p>
+<p>Proin volutpat sapien ut scelerisque molestie. Fusce id risus pellentesque, dignissim leo quis, imperdiet purus. Fusce finibus tellus vitae tellus porta, nec sagittis eros congue. Aenean semper sapien ante, porttitor posuere nulla tristique at. Curabitur ornare, metus ornare finibus mollis, mi ex fermentum ipsum, non maximus ipsum nisl tempus neque. Donec bibendum, ligula vel feugiat sagittis, ante sem tempor dolor, vitae.</p>
+<p><img class="size-full wp-image-1486 alignleft" style="margin-bottom: 20px;" src="/wp-content/uploads/sites/14/2017/11/awards.jpg" alt="" width="650" height="433" /></p>
+<p><a href="/site14/find-us/"><em><strong>Praesent euismod in diam gravida rhoncus. Maecenas vitae congue arcu.</strong></em></a></p>
+<p>Fusce sit amet sodales est. Sed id nulla sem. Phasellus tortor massa, ullamcorper id sem quis, hendrerit ultrices diam. Curabitur sapien mi, convallis et facilisis vel, fringilla in ante. Pellentesque mauris lectus, tincidunt quis leo quis, sollicitudin viverra justo.</p>
+</div></div><style type="text/css">.fusion-body .fusion-builder-column-3{width:100% !important;margin-top : 0px;margin-bottom : 0px;}.fusion-builder-column-3 > .fusion-column-wrapper {padding-top : 0px !important;padding-right : 0px !important;margin-right : 0px;padding-bottom : 0px !important;padding-left : 0px !important;margin-left : 0px;}@media only screen and (max-width:800px) {.fusion-body .fusion-builder-column-3{width:100% !important;}.fusion-builder-column-3 > .fusion-column-wrapper {margin-right : 0px;margin-left : 0px;}}@media only screen and (max-width:640px) {.fusion-body .fusion-builder-column-3{width:100% !important;}.fusion-builder-column-3 > .fusion-column-wrapper {margin-right : 0px;margin-left : 0px;}}</style></div></div><style type="text/css">.fusion-body .fusion-flex-container.fusion-builder-row-4{ padding-top : 45px;margin-top : 0px;padding-right : 0px;padding-bottom : 60px;margin-bottom : 0px;padding-left : 0px;}</style></div>
+]]></content:encoded>
+					
+					<wfw:commentRss>/site14/2017/12/03/our-next-craft-tour/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Celebrating 20 Years</title>
+		<link>/site14/2017/12/03/celebrating-20-years/</link>
+					<comments>/site14/2017/12/03/celebrating-20-years/#respond</comments>
+		
+		<dc:creator><![CDATA[wpuser]]></dc:creator>
+		<pubDate>Sun, 03 Dec 2017 15:26:21 +0000</pubDate>
+				<category><![CDATA[Blog]]></category>
+		<category><![CDATA[Hops]]></category>
+		<category><![CDATA[News]]></category>
+		<guid isPermaLink="false">/site14/?p=1181</guid>
+
+					<description><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla fermentum cursus lorem in varius. Quisque tempus rhoncus eros. Aenean turpis tellus, dictum congue augue id, hendrerit mollis eros. Nulla sed est hendrerit, scelerisque purus vel, iaculis eros.Nam sed accumsan lectus, id pharetra nibh ettra uns aliquam ficilis lorem sits un doloresAt iaculis ex am lacinia, [...]]]></description>
+										<content:encoded><![CDATA[<div class="fusion-fullwidth fullwidth-box fusion-builder-row-5 fusion-flex-container nonhundred-percent-fullwidth non-hundred-percent-height-scrolling" style="background-color: rgba(255,255,255,0);background-position: center center;background-repeat: no-repeat;border-width: 0px 0px 0px 0px;border-color:var(--awb-color7);border-style:solid;" ><div class="fusion-builder-row fusion-row fusion-flex-align-items-flex-start" style="max-width:calc( 1200px + 0px );margin-left: calc(-0px / 2 );margin-right: calc(-0px / 2 );"><div class="fusion-layout-column fusion_builder_column fusion-builder-column-4 fusion_builder_column_1_1 1_1 fusion-flex-column"><div class="fusion-column-wrapper fusion-flex-justify-content-flex-start fusion-content-layout-column" style="background-position:left top;background-repeat:no-repeat;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;padding: 0px 0px 0px 0px;"><div class="fusion-text fusion-text-5 fusion-text-split-columns fusion-text-columns-3" style=" -webkit-column-count:3; -webkit-column-gap:50px; -webkit-column-width:200px; -moz-column-count:3; -moz-column-gap:50px; -moz-column-width:200px; column-count:3; column-gap:50px; column-width:200px;"><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla fermentum cursus lorem in varius. Quisque tempus rhoncus eros. Aenean turpis tellus, dictum congue augue id, hendrerit mollis eros. Nulla sed est hendrerit, scelerisque purus vel, iaculis eros.</p>
+<blockquote>
+<p><span style="color: var(--awb-color3);"><em><strong>Nam sed accumsan lectus, id pharetra nibh ettra uns aliquam ficilis lorem sits un dolores</strong></em></span></p>
+</blockquote>
+<p>At iaculis ex am lacinia, quam sed venenatis rutrum, nisl mi ultrices metus, ac feugiat nulla ipsum eget velit. Phasellus at rhoncus magna. Aliquam orci magna, aliquam in sollicitudin eget, imperdiet quis velit. Praesent suscipit nisi nisl, eu vulputate sem euismod nec. Nulla tempus, enim a porta convallis, urna dui pretium lacus, id venenatis arcu erat nec augue. Sed id suscipit odio. Sed eleifend enim non nunc malesuada, fringilla mollis erat rutrum.</p>
+<p>Fusce in libero porta, interdum ex et, tempor metus. Pellentesque sed tincidunt velit, non mollis urna. Cras justo diam, vestibulum sed erat non, semper fringilla nibh. Sed ultricies magna viverra, tincidunt erat sit amet, placerat justo. In hendrerit nisi eu dui consectetur, id eleifend nulla pretium. Nulla aliquam porta nunc ultrices ultrices. Praesent molestie mi vitae sollicitudin ultricies. Nulla facilisi.</p>
+<p>Sed venenatis, felis ut laoreet ultrices, nunc nunc vehicula purus, nec elementum mauris mi in leo. Aliquam eget porttitor sem. Morbi fringilla diam eu mattis viverra. In eu leo non lectus mattis varius. Vivamus molestie turpis mauris. Donec at leo eros.</p>
+<p>Vivamus nec sollicitudin ipsum. Duis luctus varius tempor. Morbi sagittis magna non mauris rutrum sodales. Praesent quis felis lectus. Sed sed dui ac dui tincidunt mattis sit amet ut sem. Phasellus luctus at ligula sit amet tempor. Integer purus quam, sollicitudin non lacinia et, iaculis in lectus. Aliquam ac neque diam. Praesent at aliquet est, eget rutrum erat. Pellentesque eget quam felis.</p>
+<p>Proin volutpat sapien ut scelerisque molestie. Fusce id risus pellentesque, dignissim leo quis, imperdiet purus. Fusce finibus tellus vitae tellus porta, nec sagittis eros congue. Aenean semper sapien ante, porttitor posuere nulla tristique at. Curabitur ornare, metus ornare finibus mollis, mi ex fermentum ipsum, non maximus ipsum nisl tempus neque. Donec bibendum, ligula vel feugiat sagittis, ante sem tempor dolor, vitae.</p>
+<p><img class="size-full wp-image-1486 alignleft" style="margin-bottom: 20px;" src="/wp-content/uploads/sites/14/2017/11/awards.jpg" alt="" width="650" height="433" /></p>
+<p><a href="/site14/find-us/"><em><strong>Praesent euismod in diam gravida rhoncus. Maecenas vitae congue arcu.</strong></em></a></p>
+<p>Fusce sit amet sodales est. Sed id nulla sem. Phasellus tortor massa, ullamcorper id sem quis, hendrerit ultrices diam. Curabitur sapien mi, convallis et facilisis vel, fringilla in ante. Pellentesque mauris lectus, tincidunt quis leo quis, sollicitudin viverra justo.</p>
+</div></div><style type="text/css">.fusion-body .fusion-builder-column-4{width:100% !important;margin-top : 0px;margin-bottom : 0px;}.fusion-builder-column-4 > .fusion-column-wrapper {padding-top : 0px !important;padding-right : 0px !important;margin-right : 0px;padding-bottom : 0px !important;padding-left : 0px !important;margin-left : 0px;}@media only screen and (max-width:800px) {.fusion-body .fusion-builder-column-4{width:100% !important;}.fusion-builder-column-4 > .fusion-column-wrapper {margin-right : 0px;margin-left : 0px;}}@media only screen and (max-width:640px) {.fusion-body .fusion-builder-column-4{width:100% !important;}.fusion-builder-column-4 > .fusion-column-wrapper {margin-right : 0px;margin-left : 0px;}}</style></div></div><style type="text/css">.fusion-body .fusion-flex-container.fusion-builder-row-5{ padding-top : 45px;margin-top : 0px;padding-right : 0px;padding-bottom : 60px;margin-bottom : 0px;padding-left : 0px;}</style></div>
+]]></content:encoded>
+					
+					<wfw:commentRss>/site14/2017/12/03/celebrating-20-years/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>New Brewing Equipment</title>
+		<link>/site14/2017/12/03/new-brewing-equipment/</link>
+					<comments>/site14/2017/12/03/new-brewing-equipment/#respond</comments>
+		
+		<dc:creator><![CDATA[wpuser]]></dc:creator>
+		<pubDate>Sun, 03 Dec 2017 15:17:19 +0000</pubDate>
+				<category><![CDATA[Blog]]></category>
+		<category><![CDATA[Hops]]></category>
+		<category><![CDATA[News]]></category>
+		<guid isPermaLink="false">/site14/?p=1165</guid>
+
+					<description><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla fermentum cursus lorem in varius. Quisque tempus rhoncus eros. Aenean turpis tellus, dictum congue augue id, hendrerit mollis eros. Nulla sed est hendrerit, scelerisque purus vel, iaculis eros.Nam sed accumsan lectus, id pharetra nibh ettra uns aliquam ficilis lorem sits un doloresAt iaculis ex am lacinia, [...]]]></description>
+										<content:encoded><![CDATA[<div class="fusion-fullwidth fullwidth-box fusion-builder-row-6 fusion-flex-container nonhundred-percent-fullwidth non-hundred-percent-height-scrolling" style="background-color: rgba(255,255,255,0);background-position: center center;background-repeat: no-repeat;border-width: 0px 0px 0px 0px;border-color:var(--awb-color7);border-style:solid;" ><div class="fusion-builder-row fusion-row fusion-flex-align-items-flex-start" style="max-width:calc( 1200px + 0px );margin-left: calc(-0px / 2 );margin-right: calc(-0px / 2 );"><div class="fusion-layout-column fusion_builder_column fusion-builder-column-5 fusion_builder_column_1_1 1_1 fusion-flex-column"><div class="fusion-column-wrapper fusion-flex-justify-content-flex-start fusion-content-layout-column" style="background-position:left top;background-repeat:no-repeat;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;padding: 0px 0px 0px 0px;"><div class="fusion-text fusion-text-6 fusion-text-split-columns fusion-text-columns-3" style=" -webkit-column-count:3; -webkit-column-gap:50px; -webkit-column-width:200px; -moz-column-count:3; -moz-column-gap:50px; -moz-column-width:200px; column-count:3; column-gap:50px; column-width:200px;"><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla fermentum cursus lorem in varius. Quisque tempus rhoncus eros. Aenean turpis tellus, dictum congue augue id, hendrerit mollis eros. Nulla sed est hendrerit, scelerisque purus vel, iaculis eros.</p>
+<blockquote>
+<p><span style="color: var(--awb-color3);"><em><strong>Nam sed accumsan lectus, id pharetra nibh ettra uns aliquam ficilis lorem sits un dolores</strong></em></span></p>
+</blockquote>
+<p>At iaculis ex am lacinia, quam sed venenatis rutrum, nisl mi ultrices metus, ac feugiat nulla ipsum eget velit. Phasellus at rhoncus magna. Aliquam orci magna, aliquam in sollicitudin eget, imperdiet quis velit. Praesent suscipit nisi nisl, eu vulputate sem euismod nec. Nulla tempus, enim a porta convallis, urna dui pretium lacus, id venenatis arcu erat nec augue. Sed id suscipit odio. Sed eleifend enim non nunc malesuada, fringilla mollis erat rutrum.</p>
+<p>Fusce in libero porta, interdum ex et, tempor metus. Pellentesque sed tincidunt velit, non mollis urna. Cras justo diam, vestibulum sed erat non, semper fringilla nibh. Sed ultricies magna viverra, tincidunt erat sit amet, placerat justo. In hendrerit nisi eu dui consectetur, id eleifend nulla pretium. Nulla aliquam porta nunc ultrices ultrices. Praesent molestie mi vitae sollicitudin ultricies. Nulla facilisi.</p>
+<p>Sed venenatis, felis ut laoreet ultrices, nunc nunc vehicula purus, nec elementum mauris mi in leo. Aliquam eget porttitor sem. Morbi fringilla diam eu mattis viverra. In eu leo non lectus mattis varius. Vivamus molestie turpis mauris. Donec at leo eros.</p>
+<p>Vivamus nec sollicitudin ipsum. Duis luctus varius tempor. Morbi sagittis magna non mauris rutrum sodales. Praesent quis felis lectus. Sed sed dui ac dui tincidunt mattis sit amet ut sem. Phasellus luctus at ligula sit amet tempor. Integer purus quam, sollicitudin non lacinia et, iaculis in lectus. Aliquam ac neque diam. Praesent at aliquet est, eget rutrum erat. Pellentesque eget quam felis.</p>
+<p>Proin volutpat sapien ut scelerisque molestie. Fusce id risus pellentesque, dignissim leo quis, imperdiet purus. Fusce finibus tellus vitae tellus porta, nec sagittis eros congue. Aenean semper sapien ante, porttitor posuere nulla tristique at. Curabitur ornare, metus ornare finibus mollis, mi ex fermentum ipsum, non maximus ipsum nisl tempus neque. Donec bibendum, ligula vel feugiat sagittis, ante sem tempor dolor, vitae.</p>
+<p><img class="size-full wp-image-1486 alignleft" style="margin-bottom: 20px;" src="/wp-content/uploads/sites/14/2017/11/awards.jpg" alt="" width="650" height="433" /></p>
+<p><a href="/site14/find-us/"><em><strong>Praesent euismod in diam gravida rhoncus. Maecenas vitae congue arcu.</strong></em></a></p>
+<p>Fusce sit amet sodales est. Sed id nulla sem. Phasellus tortor massa, ullamcorper id sem quis, hendrerit ultrices diam. Curabitur sapien mi, convallis et facilisis vel, fringilla in ante. Pellentesque mauris lectus, tincidunt quis leo quis, sollicitudin viverra justo.</p>
+</div></div><style type="text/css">.fusion-body .fusion-builder-column-5{width:100% !important;margin-top : 0px;margin-bottom : 0px;}.fusion-builder-column-5 > .fusion-column-wrapper {padding-top : 0px !important;padding-right : 0px !important;margin-right : 0px;padding-bottom : 0px !important;padding-left : 0px !important;margin-left : 0px;}@media only screen and (max-width:800px) {.fusion-body .fusion-builder-column-5{width:100% !important;}.fusion-builder-column-5 > .fusion-column-wrapper {margin-right : 0px;margin-left : 0px;}}@media only screen and (max-width:640px) {.fusion-body .fusion-builder-column-5{width:100% !important;}.fusion-builder-column-5 > .fusion-column-wrapper {margin-right : 0px;margin-left : 0px;}}</style></div></div><style type="text/css">.fusion-body .fusion-flex-container.fusion-builder-row-6{ padding-top : 45px;margin-top : 0px;padding-right : 0px;padding-bottom : 60px;margin-bottom : 0px;padding-left : 0px;}</style></div>
+]]></content:encoded>
+					
+					<wfw:commentRss>/site14/2017/12/03/new-brewing-equipment/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>The Future</title>
+		<link>/site14/2017/11/18/the-future/</link>
+					<comments>/site14/2017/11/18/the-future/#respond</comments>
+		
+		<dc:creator><![CDATA[wpuser]]></dc:creator>
+		<pubDate>Sat, 18 Nov 2017 19:38:55 +0000</pubDate>
+				<category><![CDATA[Our Story]]></category>
+		<guid isPermaLink="false">/site14/?p=613</guid>
+
+					<description><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla fermentum cursus lorem in varius. Quisque tempus rhoncus eros. Aenean turpis tellus, dictum congue augue id, hendrerit mollis eros. Nulla sed est hendrerit, scelerisque purus vel, iaculis eros.Nam sed accumsan lectus, id pharetra nibh ettra uns aliquam ficilis lorem sits un doloresAt iaculis ex am lacinia, [...]]]></description>
+										<content:encoded><![CDATA[<div class="fusion-fullwidth fullwidth-box fusion-builder-row-7 fusion-flex-container nonhundred-percent-fullwidth non-hundred-percent-height-scrolling" style="background-color: rgba(255,255,255,0);background-position: center center;background-repeat: no-repeat;border-width: 0px 0px 0px 0px;border-color:var(--awb-color7);border-style:solid;" ><div class="fusion-builder-row fusion-row fusion-flex-align-items-flex-start" style="max-width:calc( 1200px + 0px );margin-left: calc(-0px / 2 );margin-right: calc(-0px / 2 );"><div class="fusion-layout-column fusion_builder_column fusion-builder-column-6 fusion_builder_column_1_1 1_1 fusion-flex-column"><div class="fusion-column-wrapper fusion-flex-justify-content-flex-start fusion-content-layout-column" style="background-position:left top;background-repeat:no-repeat;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;padding: 0px 0px 0px 0px;"><div class="fusion-text fusion-text-7 fusion-text-split-columns fusion-text-columns-3" style=" -webkit-column-count:3; -webkit-column-gap:50px; -webkit-column-width:200px; -moz-column-count:3; -moz-column-gap:50px; -moz-column-width:200px; column-count:3; column-gap:50px; column-width:200px;"><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla fermentum cursus lorem in varius. Quisque tempus rhoncus eros. Aenean turpis tellus, dictum congue augue id, hendrerit mollis eros. Nulla sed est hendrerit, scelerisque purus vel, iaculis eros.</p>
+<blockquote>
+<p><span style="color: var(--awb-color3);"><em><strong>Nam sed accumsan lectus, id pharetra nibh ettra uns aliquam ficilis lorem sits un dolores</strong></em></span></p>
+</blockquote>
+<p>At iaculis ex am lacinia, quam sed venenatis rutrum, nisl mi ultrices metus, ac feugiat nulla ipsum eget velit. Phasellus at rhoncus magna. Aliquam orci magna, aliquam in sollicitudin eget, imperdiet quis velit. Praesent suscipit nisi nisl, eu vulputate sem euismod nec. Nulla tempus, enim a porta convallis, urna dui pretium lacus, id venenatis arcu erat nec augue. Sed id suscipit odio. Sed eleifend enim non nunc malesuada, fringilla mollis erat rutrum.</p>
+<p>Fusce in libero porta, interdum ex et, tempor metus. Pellentesque sed tincidunt velit, non mollis urna. Cras justo diam, vestibulum sed erat non, semper fringilla nibh. Sed ultricies magna viverra, tincidunt erat sit amet, placerat justo. In hendrerit nisi eu dui consectetur, id eleifend nulla pretium. Nulla aliquam porta nunc ultrices ultrices. Praesent molestie mi vitae sollicitudin ultricies. Nulla facilisi.</p>
+<p>Sed venenatis, felis ut laoreet ultrices, nunc nunc vehicula purus, nec elementum mauris mi in leo. Aliquam eget porttitor sem. Morbi fringilla diam eu mattis viverra. In eu leo non lectus mattis varius. Vivamus molestie turpis mauris. Donec at leo eros.</p>
+<p>Vivamus nec sollicitudin ipsum. Duis luctus varius tempor. Morbi sagittis magna non mauris rutrum sodales. Praesent quis felis lectus. Sed sed dui ac dui tincidunt mattis sit amet ut sem. Phasellus luctus at ligula sit amet tempor. Integer purus quam, sollicitudin non lacinia et, iaculis in lectus. Aliquam ac neque diam. Praesent at aliquet est, eget rutrum erat. Pellentesque eget quam felis.</p>
+<p>Proin volutpat sapien ut scelerisque molestie. Fusce id risus pellentesque, dignissim leo quis, imperdiet purus. Fusce finibus tellus vitae tellus porta, nec sagittis eros congue. Aenean semper sapien ante, porttitor posuere nulla tristique at. Curabitur ornare, metus ornare finibus mollis, mi ex fermentum ipsum, non maximus ipsum nisl tempus neque. Donec bibendum, ligula vel feugiat sagittis, ante sem tempor dolor, vitae.</p>
+<p><img class="size-full wp-image-1486 alignleft" style="margin-bottom: 20px;" src="/wp-content/uploads/sites/14/2017/11/awards.jpg" alt="" width="650" height="433" /></p>
+<p><a href="/site14/find-us/"><em><strong>Praesent euismod in diam gravida rhoncus. Maecenas vitae congue arcu.</strong></em></a></p>
+<p>Fusce sit amet sodales est. Sed id nulla sem. Phasellus tortor massa, ullamcorper id sem quis, hendrerit ultrices diam. Curabitur sapien mi, convallis et facilisis vel, fringilla in ante. Pellentesque mauris lectus, tincidunt quis leo quis, sollicitudin viverra justo.</p>
+</div></div><style type="text/css">.fusion-body .fusion-builder-column-6{width:100% !important;margin-top : 0px;margin-bottom : 0px;}.fusion-builder-column-6 > .fusion-column-wrapper {padding-top : 0px !important;padding-right : 0px !important;margin-right : 0px;padding-bottom : 0px !important;padding-left : 0px !important;margin-left : 0px;}@media only screen and (max-width:800px) {.fusion-body .fusion-builder-column-6{width:100% !important;}.fusion-builder-column-6 > .fusion-column-wrapper {margin-right : 0px;margin-left : 0px;}}@media only screen and (max-width:640px) {.fusion-body .fusion-builder-column-6{width:100% !important;}.fusion-builder-column-6 > .fusion-column-wrapper {margin-right : 0px;margin-left : 0px;}}</style></div></div><style type="text/css">.fusion-body .fusion-flex-container.fusion-builder-row-7{ padding-top : 45px;margin-top : 0px;padding-right : 0px;padding-bottom : 60px;margin-bottom : 0px;padding-left : 0px;}</style></div>
+]]></content:encoded>
+					
+					<wfw:commentRss>/site14/2017/11/18/the-future/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Our Awards</title>
+		<link>/site14/2017/08/18/our-awards/</link>
+					<comments>/site14/2017/08/18/our-awards/#respond</comments>
+		
+		<dc:creator><![CDATA[wpuser]]></dc:creator>
+		<pubDate>Fri, 18 Aug 2017 19:36:04 +0000</pubDate>
+				<category><![CDATA[Our Story]]></category>
+		<guid isPermaLink="false">/site14/?p=610</guid>
+
+					<description><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla fermentum cursus lorem in varius. Quisque tempus rhoncus eros. Aenean turpis tellus, dictum congue augue id, hendrerit mollis eros. Nulla sed est hendrerit, scelerisque purus vel, iaculis eros.Nam sed accumsan lectus, id pharetra nibh ettra uns aliquam ficilis lorem sits un doloresAt iaculis ex am lacinia, [...]]]></description>
+										<content:encoded><![CDATA[<div class="fusion-fullwidth fullwidth-box fusion-builder-row-8 fusion-flex-container nonhundred-percent-fullwidth non-hundred-percent-height-scrolling" style="background-color: rgba(255,255,255,0);background-position: center center;background-repeat: no-repeat;border-width: 0px 0px 0px 0px;border-color:var(--awb-color7);border-style:solid;" ><div class="fusion-builder-row fusion-row fusion-flex-align-items-flex-start" style="max-width:calc( 1200px + 0px );margin-left: calc(-0px / 2 );margin-right: calc(-0px / 2 );"><div class="fusion-layout-column fusion_builder_column fusion-builder-column-7 fusion_builder_column_1_1 1_1 fusion-flex-column"><div class="fusion-column-wrapper fusion-flex-justify-content-flex-start fusion-content-layout-column" style="background-position:left top;background-repeat:no-repeat;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;padding: 0px 0px 0px 0px;"><div class="fusion-text fusion-text-8 fusion-text-split-columns fusion-text-columns-3" style=" -webkit-column-count:3; -webkit-column-gap:50px; -webkit-column-width:200px; -moz-column-count:3; -moz-column-gap:50px; -moz-column-width:200px; column-count:3; column-gap:50px; column-width:200px;"><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla fermentum cursus lorem in varius. Quisque tempus rhoncus eros. Aenean turpis tellus, dictum congue augue id, hendrerit mollis eros. Nulla sed est hendrerit, scelerisque purus vel, iaculis eros.</p>
+<blockquote>
+<p><span style="color: var(--awb-color3);"><em><strong>Nam sed accumsan lectus, id pharetra nibh ettra uns aliquam ficilis lorem sits un dolores</strong></em></span></p>
+</blockquote>
+<p>At iaculis ex am lacinia, quam sed venenatis rutrum, nisl mi ultrices metus, ac feugiat nulla ipsum eget velit. Phasellus at rhoncus magna. Aliquam orci magna, aliquam in sollicitudin eget, imperdiet quis velit. Praesent suscipit nisi nisl, eu vulputate sem euismod nec. Nulla tempus, enim a porta convallis, urna dui pretium lacus, id venenatis arcu erat nec augue. Sed id suscipit odio. Sed eleifend enim non nunc malesuada, fringilla mollis erat rutrum.</p>
+<p>Fusce in libero porta, interdum ex et, tempor metus. Pellentesque sed tincidunt velit, non mollis urna. Cras justo diam, vestibulum sed erat non, semper fringilla nibh. Sed ultricies magna viverra, tincidunt erat sit amet, placerat justo. In hendrerit nisi eu dui consectetur, id eleifend nulla pretium. Nulla aliquam porta nunc ultrices ultrices. Praesent molestie mi vitae sollicitudin ultricies. Nulla facilisi.</p>
+<p>Sed venenatis, felis ut laoreet ultrices, nunc nunc vehicula purus, nec elementum mauris mi in leo. Aliquam eget porttitor sem. Morbi fringilla diam eu mattis viverra. In eu leo non lectus mattis varius. Vivamus molestie turpis mauris. Donec at leo eros.</p>
+<p>Vivamus nec sollicitudin ipsum. Duis luctus varius tempor. Morbi sagittis magna non mauris rutrum sodales. Praesent quis felis lectus. Sed sed dui ac dui tincidunt mattis sit amet ut sem. Phasellus luctus at ligula sit amet tempor. Integer purus quam, sollicitudin non lacinia et, iaculis in lectus. Aliquam ac neque diam. Praesent at aliquet est, eget rutrum erat. Pellentesque eget quam felis.</p>
+<p>Proin volutpat sapien ut scelerisque molestie. Fusce id risus pellentesque, dignissim leo quis, imperdiet purus. Fusce finibus tellus vitae tellus porta, nec sagittis eros congue. Aenean semper sapien ante, porttitor posuere nulla tristique at. Curabitur ornare, metus ornare finibus mollis, mi ex fermentum ipsum, non maximus ipsum nisl tempus neque. Donec bibendum, ligula vel feugiat sagittis, ante sem tempor dolor, vitae.</p>
+<p><img class="size-full wp-image-1486 alignleft" style="margin-bottom: 20px;" src="/wp-content/uploads/sites/14/2017/11/awards.jpg" alt="" width="650" height="433" /></p>
+<p><a href="/site14/find-us/"><em><strong>Praesent euismod in diam gravida rhoncus. Maecenas vitae congue arcu.</strong></em></a></p>
+<p>Fusce sit amet sodales est. Sed id nulla sem. Phasellus tortor massa, ullamcorper id sem quis, hendrerit ultrices diam. Curabitur sapien mi, convallis et facilisis vel, fringilla in ante. Pellentesque mauris lectus, tincidunt quis leo quis, sollicitudin viverra justo.</p>
+</div></div><style type="text/css">.fusion-body .fusion-builder-column-7{width:100% !important;margin-top : 0px;margin-bottom : 0px;}.fusion-builder-column-7 > .fusion-column-wrapper {padding-top : 0px !important;padding-right : 0px !important;margin-right : 0px;padding-bottom : 0px !important;padding-left : 0px !important;margin-left : 0px;}@media only screen and (max-width:800px) {.fusion-body .fusion-builder-column-7{width:100% !important;}.fusion-builder-column-7 > .fusion-column-wrapper {margin-right : 0px;margin-left : 0px;}}@media only screen and (max-width:640px) {.fusion-body .fusion-builder-column-7{width:100% !important;}.fusion-builder-column-7 > .fusion-column-wrapper {margin-right : 0px;margin-left : 0px;}}</style></div></div><style type="text/css">.fusion-body .fusion-flex-container.fusion-builder-row-8{ padding-top : 45px;margin-top : 0px;padding-right : 0px;padding-bottom : 60px;margin-bottom : 0px;padding-left : 0px;}</style></div>
+]]></content:encoded>
+					
+					<wfw:commentRss>/site14/2017/08/18/our-awards/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>The Team</title>
+		<link>/site14/2017/07/18/the-team/</link>
+					<comments>/site14/2017/07/18/the-team/#respond</comments>
+		
+		<dc:creator><![CDATA[wpuser]]></dc:creator>
+		<pubDate>Tue, 18 Jul 2017 19:30:42 +0000</pubDate>
+				<category><![CDATA[Our Story]]></category>
+		<guid isPermaLink="false">/site14/?p=607</guid>
+
+					<description><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla fermentum cursus lorem in varius. Quisque tempus rhoncus eros. Aenean turpis tellus, dictum congue augue id, hendrerit mollis eros. Nulla sed est hendrerit, scelerisque purus vel, iaculis eros.Nam sed accumsan lectus, id pharetra nibh ettra uns aliquam ficilis lorem sits un doloresAt iaculis ex am lacinia, [...]]]></description>
+										<content:encoded><![CDATA[<div class="fusion-fullwidth fullwidth-box fusion-builder-row-9 fusion-flex-container nonhundred-percent-fullwidth non-hundred-percent-height-scrolling" style="background-color: rgba(255,255,255,0);background-position: center center;background-repeat: no-repeat;border-width: 0px 0px 0px 0px;border-color:var(--awb-color7);border-style:solid;" ><div class="fusion-builder-row fusion-row fusion-flex-align-items-flex-start" style="max-width:calc( 1200px + 0px );margin-left: calc(-0px / 2 );margin-right: calc(-0px / 2 );"><div class="fusion-layout-column fusion_builder_column fusion-builder-column-8 fusion_builder_column_1_1 1_1 fusion-flex-column"><div class="fusion-column-wrapper fusion-flex-justify-content-flex-start fusion-content-layout-column" style="background-position:left top;background-repeat:no-repeat;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;padding: 0px 0px 0px 0px;"><div class="fusion-text fusion-text-9 fusion-text-split-columns fusion-text-columns-3" style=" -webkit-column-count:3; -webkit-column-gap:50px; -webkit-column-width:200px; -moz-column-count:3; -moz-column-gap:50px; -moz-column-width:200px; column-count:3; column-gap:50px; column-width:200px;"><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla fermentum cursus lorem in varius. Quisque tempus rhoncus eros. Aenean turpis tellus, dictum congue augue id, hendrerit mollis eros. Nulla sed est hendrerit, scelerisque purus vel, iaculis eros.</p>
+<blockquote>
+<p><span style="color: var(--awb-color3);"><em><strong>Nam sed accumsan lectus, id pharetra nibh ettra uns aliquam ficilis lorem sits un dolores</strong></em></span></p>
+</blockquote>
+<p>At iaculis ex am lacinia, quam sed venenatis rutrum, nisl mi ultrices metus, ac feugiat nulla ipsum eget velit. Phasellus at rhoncus magna. Aliquam orci magna, aliquam in sollicitudin eget, imperdiet quis velit. Praesent suscipit nisi nisl, eu vulputate sem euismod nec. Nulla tempus, enim a porta convallis, urna dui pretium lacus, id venenatis arcu erat nec augue. Sed id suscipit odio. Sed eleifend enim non nunc malesuada, fringilla mollis erat rutrum.</p>
+<p>Fusce in libero porta, interdum ex et, tempor metus. Pellentesque sed tincidunt velit, non mollis urna. Cras justo diam, vestibulum sed erat non, semper fringilla nibh. Sed ultricies magna viverra, tincidunt erat sit amet, placerat justo. In hendrerit nisi eu dui consectetur, id eleifend nulla pretium. Nulla aliquam porta nunc ultrices ultrices. Praesent molestie mi vitae sollicitudin ultricies. Nulla facilisi.</p>
+<p>Sed venenatis, felis ut laoreet ultrices, nunc nunc vehicula purus, nec elementum mauris mi in leo. Aliquam eget porttitor sem. Morbi fringilla diam eu mattis viverra. In eu leo non lectus mattis varius. Vivamus molestie turpis mauris. Donec at leo eros.</p>
+<p>Vivamus nec sollicitudin ipsum. Duis luctus varius tempor. Morbi sagittis magna non mauris rutrum sodales. Praesent quis felis lectus. Sed sed dui ac dui tincidunt mattis sit amet ut sem. Phasellus luctus at ligula sit amet tempor. Integer purus quam, sollicitudin non lacinia et, iaculis in lectus. Aliquam ac neque diam. Praesent at aliquet est, eget rutrum erat. Pellentesque eget quam felis.</p>
+<p>Proin volutpat sapien ut scelerisque molestie. Fusce id risus pellentesque, dignissim leo quis, imperdiet purus. Fusce finibus tellus vitae tellus porta, nec sagittis eros congue. Aenean semper sapien ante, porttitor posuere nulla tristique at. Curabitur ornare, metus ornare finibus mollis, mi ex fermentum ipsum, non maximus ipsum nisl tempus neque. Donec bibendum, ligula vel feugiat sagittis, ante sem tempor dolor, vitae.</p>
+<p><img class="size-full wp-image-1486 alignleft" style="margin-bottom: 20px;" src="/wp-content/uploads/sites/14/2017/11/awards.jpg" alt="" width="650" height="433" /></p>
+<p><a href="/site14/find-us/"><em><strong>Praesent euismod in diam gravida rhoncus. Maecenas vitae congue arcu.</strong></em></a></p>
+<p>Fusce sit amet sodales est. Sed id nulla sem. Phasellus tortor massa, ullamcorper id sem quis, hendrerit ultrices diam. Curabitur sapien mi, convallis et facilisis vel, fringilla in ante. Pellentesque mauris lectus, tincidunt quis leo quis, sollicitudin viverra justo.</p>
+</div></div><style type="text/css">.fusion-body .fusion-builder-column-8{width:100% !important;margin-top : 0px;margin-bottom : 0px;}.fusion-builder-column-8 > .fusion-column-wrapper {padding-top : 0px !important;padding-right : 0px !important;margin-right : 0px;padding-bottom : 0px !important;padding-left : 0px !important;margin-left : 0px;}@media only screen and (max-width:800px) {.fusion-body .fusion-builder-column-8{width:100% !important;}.fusion-builder-column-8 > .fusion-column-wrapper {margin-right : 0px;margin-left : 0px;}}@media only screen and (max-width:640px) {.fusion-body .fusion-builder-column-8{width:100% !important;}.fusion-builder-column-8 > .fusion-column-wrapper {margin-right : 0px;margin-left : 0px;}}</style></div></div><style type="text/css">.fusion-body .fusion-flex-container.fusion-builder-row-9{ padding-top : 45px;margin-top : 0px;padding-right : 0px;padding-bottom : 60px;margin-bottom : 0px;padding-left : 0px;}</style></div>
+]]></content:encoded>
+					
+					<wfw:commentRss>/site14/2017/07/18/the-team/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

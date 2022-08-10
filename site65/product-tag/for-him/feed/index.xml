@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>For him &#8211; Avada Handmade</title>
+	<atom:link href="/site65/product-tag/for-him/feed/" rel="self" type="application/rss+xml" />
+	<link>/site65</link>
+	<description>Just another MySite_aku9 Sites site</description>
+	<lastBuildDate>Thu, 30 Jun 2022 05:19:44 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0.1</generator>
+	<item>
+		<title>Handmade man necklace</title>
+		<link>/site65/product/handmade-man-necklace/</link>
+					<comments>/site65/product/handmade-man-necklace/#comments</comments>
+		
+		<dc:creator><![CDATA[wpuser]]></dc:creator>
+		<pubDate>Mon, 07 Dec 2020 14:35:19 +0000</pubDate>
+				<guid isPermaLink="false">/site65/?post_type=product&#038;p=1515</guid>
+
+					<description><![CDATA[Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Vivamus magna justo, lacinia eget consectetur sed, convallis at tellus.]]></description>
+										<content:encoded><![CDATA[Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Vivamus magna justo, lacinia eget consectetur sed, convallis at tellus.]]></content:encoded>
+					
+					<wfw:commentRss>/site65/product/handmade-man-necklace/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Man necklace</title>
+		<link>/site65/product/man-necklace/</link>
+					<comments>/site65/product/man-necklace/#comments</comments>
+		
+		<dc:creator><![CDATA[wpuser]]></dc:creator>
+		<pubDate>Mon, 07 Dec 2020 14:28:45 +0000</pubDate>
+				<guid isPermaLink="false">/site65/?post_type=product&#038;p=1497</guid>
+
+					<description><![CDATA[Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Vivamus magna justo, lacinia eget consectetur sed, convallis at tellus.]]></description>
+										<content:encoded><![CDATA[Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Vivamus magna justo, lacinia eget consectetur sed, convallis at tellus.]]></content:encoded>
+					
+					<wfw:commentRss>/site65/product/man-necklace/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Leather wallet</title>
+		<link>/site65/product/leather-wallet/</link>
+					<comments>/site65/product/leather-wallet/#comments</comments>
+		
+		<dc:creator><![CDATA[wpuser]]></dc:creator>
+		<pubDate>Wed, 02 Dec 2020 18:45:41 +0000</pubDate>
+				<guid isPermaLink="false">/site65/?post_type=product&#038;p=1123</guid>
+
+					<description><![CDATA[Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Vivamus magna justo, lacinia eget consectetur sed, convallis at tellus.]]></description>
+										<content:encoded><![CDATA[Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Vivamus magna justo, lacinia eget consectetur sed, convallis at tellus.]]></content:encoded>
+					
+					<wfw:commentRss>/site65/product/leather-wallet/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Man leather bag</title>
+		<link>/site65/product/man-leather-bag/</link>
+					<comments>/site65/product/man-leather-bag/#comments</comments>
+		
+		<dc:creator><![CDATA[wpuser]]></dc:creator>
+		<pubDate>Wed, 02 Dec 2020 18:35:11 +0000</pubDate>
+				<guid isPermaLink="false">/site65/?post_type=product&#038;p=1118</guid>
+
+					<description><![CDATA[Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Vivamus magna justo, lacinia eget consectetur sed, convallis at tellus.]]></description>
+										<content:encoded><![CDATA[Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Vivamus magna justo, lacinia eget consectetur sed, convallis at tellus.]]></content:encoded>
+					
+					<wfw:commentRss>/site65/product/man-leather-bag/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Leather bracelet</title>
+		<link>/site65/product/leather-bracelet/</link>
+					<comments>/site65/product/leather-bracelet/#comments</comments>
+		
+		<dc:creator><![CDATA[wpuser]]></dc:creator>
+		<pubDate>Thu, 26 Nov 2020 17:37:26 +0000</pubDate>
+				<guid isPermaLink="false">/site65/?post_type=product&#038;p=181</guid>
+
+					<description><![CDATA[Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Vivamus magna justo, lacinia eget consectetur sed, convallis at tellus.]]></description>
+										<content:encoded><![CDATA[Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Vivamus magna justo, lacinia eget consectetur sed, convallis at tellus.]]></content:encoded>
+					
+					<wfw:commentRss>/site65/product/leather-bracelet/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
