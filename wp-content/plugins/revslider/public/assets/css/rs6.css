@@ -342,10 +342,10 @@ rs-alyer *:not(.rs-wtbindex),
 
 /* CAROUSEL FUNCTIONS */
 rs-carousel-wrap {
-	cursor:url(/site14/wp-content/plugins/revslider/public/assets/css/openhand.cur), move;
+	cursor:url(/site15/wp-content/plugins/revslider/public/assets/css/openhand.cur), move;
 }
 rs-carousel-wrap.dragged {
-	cursor:url(/site14/wp-content/plugins/revslider/public/assets/css/closedhand.cur), move;
+	cursor:url(/site15/wp-content/plugins/revslider/public/assets/css/closedhand.cur), move;
 }
 
 rs-carousel-wrap.noswipe {
